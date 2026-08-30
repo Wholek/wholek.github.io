@@ -104,10 +104,12 @@ main.content {
     display: flex !important;
     align-items: flex-start;
     gap: 0 var(--kg-gap);
-    max-width: var(--kg-page);
+    // Pudełko jest szersze o podwójne przesunięcie, a nadmiar wisi po
+    // prawej jako pusty margines wewnętrzny. Wyśrodkowanie takiego
+    // pudełka przesuwa jego zawartość w lewo dokładnie o --kg-shift.
+    max-width: calc(var(--kg-page) + var(--kg-shift) * 2);
+    padding-right: calc(var(--kg-shift) * 2);
     margin-inline: auto;
-    position: relative;
-    right: var(--kg-shift);
   }
 
   #quarto-content > #quarto-sidebar {
@@ -137,12 +139,10 @@ main.content {
 .navbar > .container-fluid,
 .navbar .navbar-container,
 .nav-footer {
-  max-width: var(--kg-page);
+  max-width: calc(var(--kg-page) + var(--kg-shift) * 2);
   margin-inline: auto;
   padding-left: 0;
-  padding-right: 0;
-  position: relative;
-  right: var(--kg-shift);
+  padding-right: calc(var(--kg-shift) * 2);
 }
 
 // Na wąskich ekranach wszystko zwęża się do marginesu bocznego.
