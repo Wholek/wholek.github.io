@@ -1,0 +1,60 @@
+---
+title: "Teaching"
+pagetitle: "Teaching — Kamil Gacek"
+description-meta: "Courses taught at the Faculty of Management, AGH University of Krakow."
+page-layout: article
+---
+
+I teach mathematics and quantitative methods at the Faculty of Management, AGH University of
+Krakow, mostly to students who will use these tools rather than prove theorems with them. My
+aim in every course is that a method arrives together with the question it answers.
+
+## Courses
+
+::: {.entry}
+::: {.entry-date}
+since 2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+Algebra and Differential Calculus
+:::
+::: {.entry-org}
+Faculty of Management, AGH University of Krakow
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+since 2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+Mathematics in Management
+:::
+::: {.entry-org}
+Faculty of Management, AGH University of Krakow
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+since 2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+Spectral Analysis in Economics and Finance
+:::
+::: {.entry-org}
+Faculty of Management, AGH University of Krakow
+:::
+:::
+:::
+
+## For students
+
+I am happy to supervise or co-supervise theses that use Input–Output methods, environmental
+accounting or applied statistics on Polish data. If you have an idea in that area, write to me
+with a paragraph describing it.

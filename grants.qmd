@@ -1,0 +1,55 @@
+---
+title: "Grants and Projects"
+pagetitle: "Grants and projects — Kamil Gacek"
+description-meta: "Research funding, mini-grants and research projects."
+page-layout: article
+---
+
+## Research funding
+
+::: {.entry}
+::: {.entry-date}
+2026 – 2027
+:::
+::: {.entry-body}
+::: {.entry-title}
+Endogenization of Households in an Environmentally Extended Input–Output Model: An Analysis of Induced Effects in the Water Footprint of the Polish Economy
+:::
+::: {.entry-org}
+Principal Investigator · AGH University Mini-Grant for Research Projects Conducted by PhD Students
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2024 – 2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+Analysis of the Direct, Indirect and Induced Economic Impacts of Drought in Poland Using Input–Output Models
+:::
+::: {.entry-org}
+Principal Investigator · AGH University Mini-Grant for Research Projects Conducted by PhD Students
+:::
+:::
+:::
+
+## Project participation
+
+::: {.entry}
+::: {.entry-date}
+11/2024 – 10/2026
+:::
+::: {.entry-body}
+::: {.entry-title}
+POLPAN — Polish Panel Survey
+:::
+::: {.entry-org}
+Research Assistant · Institute of Philosophy and Sociology, Polish Academy of Sciences
+:::
+Statistical analysis and data modelling on the longitudinal POLPAN dataset, harmonisation of the
+1988–2018 database, and co-authorship of the bilingual (PL/EN) documentation for several study
+waves, including the 2023 edition.
+:::
+:::

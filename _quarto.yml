@@ -1,0 +1,71 @@
+project:
+  type: website
+  output-dir: docs          # katalog, który publikujesz (GitHub Pages / Netlify)
+  resources:
+    - files/                # PDF-y i inne pliki do pobrania
+
+website:
+  title: "Kamil Gacek"
+  description: "Kamil Gacek — PhD candidate in Economics and Finance, AGH University of Krakow. Input-Output modelling, water footprint and disaster impact assessment."
+  # site-url: "https://kamilgacek.com"     # odkomentuj po wykupieniu domeny
+  favicon: images/favicon.png
+  search: false
+  navbar:
+    title: "Kamil Gacek"
+    left:
+      - href: index.qmd
+        text: About
+      - text: Research
+        menu:
+          - href: research.qmd
+            text: Overview
+          - href: publications.qmd
+            text: Publications
+          - href: conferences.qmd
+            text: Talks & Visits
+          - href: teaching.qmd
+            text: Teaching
+          - href: grants.qmd
+            text: Grants
+          - href: other.qmd
+            text: Other
+      - href: industry.qmd
+        text: Industry
+    right:
+      - href: contact.qmd
+        text: Contact
+  sidebar:
+    - id: research
+      style: "floating"
+      border: false
+      contents:
+        - text: "Overview"
+          href: research.qmd
+        - text: "Publications"
+          href: publications.qmd
+        - text: "Talks & Visits"
+          href: conferences.qmd
+        - text: "Teaching"
+          href: teaching.qmd
+        - text: "Grants"
+          href: grants.qmd
+        - text: "Other"
+          href: other.qmd
+
+  page-footer:
+    border: true
+    left: "© 2026 Kamil Gacek"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header: header.html
+    include-after-body: after-body.html
+    email-obfuscation: javascript

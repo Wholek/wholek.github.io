@@ -1,0 +1,61 @@
+---
+title: "Research"
+pagetitle: "Research — Kamil Gacek"
+description-meta: "Environmentally extended Input–Output modelling, water footprint analysis and disaster impact assessment for the Polish economy."
+page-layout: article
+---
+
+My research bridges environmental economics and applied mathematical modelling to assess the
+macroeconomic consequences of droughts and other physical disruptions in the Polish economy.
+Input–Output frameworks let me examine direct and indirect sectoral water dependencies and
+understand how a shortage in one place turns into a cascading economic shock somewhere else.
+I work with environmentally extended Input–Output models, structural decomposition and path
+analysis, backward and forward linkages, and Dynamic Inoperability Input–Output Models.
+
+::: {.navcards}
+
+::: {.navcard}
+[Publications](publications.qmd){.navcard-label}
+
+::: {.navcard-text}
+[Peer-reviewed articles](publications.qmd) on water and waste in the Polish economy, each with an
+abstract, keywords and a DOI.
+:::
+:::
+
+::: {.navcard}
+[Talks & Visits](conferences.qmd){.navcard-label}
+
+::: {.navcard-text}
+Conference presentations, workshops, summer schools and [research visits](conferences.qmd), with a
+map of where they took place.
+:::
+:::
+
+::: {.navcard}
+[Teaching](teaching.qmd){.navcard-label}
+
+::: {.navcard-text}
+[Courses](teaching.qmd) in mathematics and quantitative methods that I teach at the Faculty of
+Management, AGH University of Krakow.
+:::
+:::
+
+::: {.navcard}
+[Grants](grants.qmd){.navcard-label}
+
+::: {.navcard-text}
+[Funded projects](grants.qmd) in which I am the principal investigator, and research projects I
+have worked on.
+:::
+:::
+
+::: {.navcard}
+[Other](other.qmd){.navcard-label}
+
+::: {.navcard-text}
+[Scholarships and awards](other.qmd), professional memberships, and service on academic councils.
+:::
+:::
+
+:::

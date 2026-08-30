@@ -1,0 +1,34 @@
+---
+title: "Contact"
+pagetitle: "Contact — Kamil Gacek"
+description-meta: "How to reach Kamil Gacek at AGH University of Krakow."
+page-layout: article
+---
+
+The fastest way to reach me is by e-mail. I am happy to hear from potential collaborators,
+about research visits and joint projects, and from students with questions about my courses.
+
+## Details
+
+::: {.linklist}
+- [E-mail]{.linklist-label} [kgacek@agh.edu.pl](mailto:kgacek@agh.edu.pl)
+- [Department]{.linklist-label} Department of Applications of Mathematics in Economics
+- [Faculty]{.linklist-label} Faculty of Management
+- [University]{.linklist-label} AGH University of Krakow
+- [Address]{.linklist-label} al. Mickiewicza 30, 30-059 Krakow, Poland
+:::
+
+## Profiles
+
+::: {.linklist}
+- [[]{.bi .bi-linkedin .profile-icon}[LinkedIn]{.linklist-label}](https://www.linkedin.com/in/kamil-gacek/)
+- [[]{.ai .ai-google-scholar .profile-icon}[Google Scholar]{.linklist-label}](https://scholar.google.com/citations?user=Bo11EggAAAAJ&hl=pl)
+- [[]{.ai .ai-researchgate .profile-icon}[Research Gate]{.linklist-label}](https://www.researchgate.net/profile/Kamil-Gacek-2)
+- [[]{.ai .ai-orcid .profile-icon}[ORCID]{.linklist-label}](https://orcid.org/0009-0002-0235-3232)
+:::
+
+## For students
+
+Office hours are held during the semester at the Faculty of Management; the current schedule
+is announced on the AGH course pages. Questions about assignments, quizzes and exams are
+welcome by e-mail.

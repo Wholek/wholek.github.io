@@ -1,0 +1,15 @@
+<script>
+// Kliknięcie w "Research" w belce przenosi na stronę Overview.
+// Rozwijana lista nadal otwiera się samym najechaniem.
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('.navbar .nav-item.dropdown > .dropdown-toggle')
+    .forEach(function (toggle) {
+      if (toggle.textContent.trim().toLowerCase() !== 'research') return;
+      toggle.addEventListener('click', function (event) {
+        event.preventDefault();
+        event.stopPropagation();
+        window.location.href = 'research.html';
+      });
+    });
+});
+</script>

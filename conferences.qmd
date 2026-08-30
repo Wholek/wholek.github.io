@@ -1,0 +1,308 @@
+---
+title: "Talks and Visits"
+pagetitle: "Talks and Visits — Kamil Gacek"
+description-meta: "Conference presentations, workshops, summer schools and research visits."
+page-layout: article
+---
+
+## Conference Presentations
+
+::: {.entry}
+::: {.entry-date}
+2026
+:::
+::: {.entry-body}
+::: {.entry-title}
+Decomposing Water Demand Dynamics: A Structural Decomposition Analysis of the Polish Economy (2010–2020)
+:::
+::: {.entry-org}
+16th International Conference on New Ideas in Management, Economics and Accounting · oral presentation
+:::
+[[🇫🇮]{.flag} Helsinki, Finland]{.entry-loc}
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2026
+:::
+::: {.entry-body}
+::: {.entry-title}
+Mapping Water Dependencies via IO Linkages: Identifying Key Sectors in Poland's Economy (EEIO 2020)
+:::
+::: {.entry-org}
+10th International Conference on Advanced Research in Management, Business and Finance · oral presentation
+:::
+[[🇬🇷]{.flag} Athens, Greece]{.entry-loc}
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+Seeing the Invisible Water: Direct vs. Indirect Use in Poland's Economy (EEIO 2020)
+:::
+::: {.entry-org}
+9th International Conference on Business, Management and Finance · oral presentation
+:::
+[[🇬🇧]{.flag} Cambridge, United Kingdom]{.entry-loc}
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+Intersectoral Linkages and Water Use: Identifying and Tracking Key Sectors in Poland (2015–2020)
+:::
+::: {.entry-org}
+International Conference on Economics, Finance & Business · oral presentation
+:::
+[[🇬🇧]{.flag} London, United Kingdom]{.entry-loc}
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+Drought in Europe in the Era of Global Warming: Conclusions from the PESETA IV Report
+:::
+::: {.entry-org}
+4th National Conference of Young Scientists · oral presentation
+:::
+[[🌐]{.flag} Online]{.entry-loc}
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2023
+:::
+::: {.entry-body}
+::: {.entry-title}
+Decomposition Analysis and Input–Output Models: A Framework for Environmental Assessments in Poland
+:::
+::: {.entry-org}
+EKO DOK Conference · oral presentation
+:::
+[[🇵🇱]{.flag} Boguszów-Gorce, Poland]{.entry-loc}
+:::
+:::
+
+## Workshops
+
+::: {.entry}
+::: {.entry-date}
+2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+Building Resilient Economies: The Role of Inoperability Input–Output Modelling in Natural Hazard Mitigation
+:::
+::: {.entry-org}
+16th Input–Output Workshop · oral presentation
+:::
+[[🇳🇱]{.flag} Groningen, Netherlands]{.entry-loc}
+:::
+:::
+
+## Summer Schools
+
+::: {.entry}
+::: {.entry-date}
+2026
+:::
+::: {.entry-body}
+::: {.entry-title}
+The New Global Economic Order
+:::
+[[🇮🇹]{.flag} Iseo, Italy]{.entry-loc}
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+HydRoData: Summer School on Hydrology and Data
+:::
+[[🇸🇮]{.flag} Ljubljana, Slovenia]{.entry-loc}
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2024
+:::
+::: {.entry-body}
+::: {.entry-title}
+The World Economy's Shifting Winds: New Challenges, Threats, and Opportunities
+:::
+[[🇮🇹]{.flag} Iseo, Italy]{.entry-loc}
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2023
+:::
+::: {.entry-body}
+::: {.entry-title}
+Summer School for Young Economists from the Three Seas Region
+:::
+[[🇵🇱]{.flag} Konstancin-Jeziorna, Poland]{.entry-loc}
+:::
+:::
+
+## Research Visits
+
+::: {.entry}
+::: {.entry-date}
+10/2026
+:::
+::: {.entry-body}
+::: {.entry-title}
+University of Waterloo [upcoming]{.pub-status}
+:::
+::: {.entry-org}
+15–27 October 2026
+:::
+[[🇨🇦]{.flag} Waterloo, Ontario, Canada]{.entry-loc}
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+08–09/2026
+:::
+::: {.entry-body}
+::: {.entry-title}
+Umeå University
+:::
+::: {.entry-org}
+28 August – 3 September 2026
+:::
+[[🇸🇪]{.flag} Umeå, Sweden]{.entry-loc}
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+02/2026
+:::
+::: {.entry-body}
+::: {.entry-title}
+George Washington University
+:::
+::: {.entry-org}
+23–27 February 2026
+:::
+[[🇺🇸]{.flag} Washington, D.C., United States]{.entry-loc}
+:::
+:::
+
+## Where I Have Been
+
+<!-- ══════════════════════════════════════════════════════════════════
+     MAPA — żeby dodać punkt, dopisz wiersz do tablicy `stops` poniżej:
+     {lat, lon, place, type: "talk" albo "visit", events: ["Rok — nazwa"]}
+     Współrzędne wygodnie sprawdzić w Google Maps (prawy klik → kopiuj).
+     ══════════════════════════════════════════════════════════════════ -->
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<div id="talkmap" class="talkmap"></div>
+
+<script>
+(function () {
+  const stops = [
+    {lat: 60.1699, lon: 24.9384, place: "Helsinki, Finland", type: "talk",
+     events: ["2026 — 16th Int. Conference on New Ideas in Management, Economics and Accounting"]},
+    {lat: 37.9838, lon: 23.7275, place: "Athens, Greece", type: "talk",
+     events: ["2026 — 10th Int. Conference on Advanced Research in Management, Business and Finance"]},
+    {lat: 52.2053, lon: 0.1218, place: "Cambridge, United Kingdom", type: "talk",
+     events: ["2025 — 9th Int. Conference on Business, Management and Finance"]},
+    {lat: 51.5074, lon: -0.1278, place: "London, United Kingdom", type: "talk",
+     events: ["2025 — Int. Conference on Economics, Finance &amp; Business"]},
+    {lat: 53.2194, lon: 6.5665, place: "Groningen, Netherlands", type: "talk",
+     events: ["2025 — 16th Input–Output Workshop"]},
+    {lat: 50.7544, lon: 16.2019, place: "Boguszów-Gorce, Poland", type: "talk",
+     events: ["2023 — EKO DOK Conference"]},
+    {lat: 45.6594, lon: 10.0489, place: "Iseo, Italy", type: "visit",
+     events: ["2026 — Summer School: The New Global Economic Order",
+              "2024 — Summer School: The World Economy's Shifting Winds"]},
+    {lat: 46.0569, lon: 14.5058, place: "Ljubljana, Slovenia", type: "visit",
+     events: ["2025 — HydRoData Summer School"]},
+    {lat: 52.0864, lon: 21.1189, place: "Konstancin-Jeziorna, Poland", type: "visit",
+     events: ["2023 — Summer School for Young Economists from the Three Seas Region"]},
+    {lat: 38.8997, lon: -77.0489, place: "Washington, D.C., United States", type: "visit",
+     events: ["2026 — Research visit, George Washington University"]},
+    {lat: 63.8258, lon: 20.2630, place: "Umeå, Sweden", type: "visit",
+     events: ["2026 — Research visit, Umeå School of Business, Economics and Statistics"]},
+    {lat: 43.4723, lon: -80.5449, place: "Waterloo, Ontario, Canada", type: "visit",
+     events: ["2026 — Research visit, University of Waterloo Water Institute"]}
+  ];
+
+  const map = L.map('talkmap', {scrollWheelZoom: false, zoomControl: true});
+
+  // Podkład: jasnoszary Esri Light Gray Canvas — bez klucza API.
+  // Jeśli kafelki nie odpowiedzą, skrypt sam przełącza się na
+  // OpenStreetMap i nakłada filtr szarości (klasa .talkmap--osm).
+  const esriBase = L.tileLayer(
+    'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}',
+    {attribution: '&copy; Esri, HERE, Garmin, &copy; OpenStreetMap contributors', maxZoom: 16});
+
+  const esriLabels = L.tileLayer(
+    'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}',
+    {maxZoom: 16, pane: 'shadowPane'});
+
+  esriBase.addTo(map);
+  esriLabels.addTo(map);
+
+  let switched = false;
+  esriBase.on('tileerror', function () {
+    if (switched) return;
+    switched = true;
+    map.removeLayer(esriBase);
+    map.removeLayer(esriLabels);
+    document.getElementById('talkmap').classList.add('talkmap--osm');
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors',
+      maxZoom: 19
+    }).addTo(map);
+  });
+
+  const bounds = [];
+  stops.forEach(function (s) {
+    bounds.push([s.lat, s.lon]);
+    const talk = s.type === 'talk';
+    L.circleMarker([s.lat, s.lon], {
+      radius: 7,
+      weight: 2,
+      color: '#8a7521',
+      fillColor: talk ? '#8a7521' : '#ffffff',
+      fillOpacity: talk ? 0.45 : 0.95
+    }).addTo(map)
+      .bindPopup('<strong>' + s.place + '</strong><br>' + s.events.join('<br>'));
+  });
+  map.fitBounds(bounds, {padding: [40, 40]});
+})();
+</script>
+
+::: {.maplegend}
+[[]{.legend-dot .legend-talk} Talks]{.legend-item}
+[[]{.legend-dot .legend-visit} Schools and visits]{.legend-item}
+:::
+
+Click a dot for the events held there. The online conference is not shown on the map.

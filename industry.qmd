@@ -1,0 +1,103 @@
+---
+title: "Industry experience"
+pagetitle: "Industry experience — Kamil Gacek"
+description-meta: "Five years in people analytics and HR data analysis at Jacobs and Aptiv."
+page-layout: article
+---
+
+Parallel to my academic work I have spent five years in people analytics and HR data
+analysis in global engineering organisations. The two tracks feed each other: modelling
+teaches me to be careful about what the numbers can support, and analytics practice keeps me
+close to imperfect data, stakeholders on a deadline, and results that have to be explained to
+people who do not read econometrics.
+
+<!-- ══════════════════════════════════════════════════════════════════
+     UZUPEŁNIJ: pod każdą rolą dodaj 2–4 punkty o tym, co realnie
+     robiłeś (zakres, narzędzia, skala, efekt). CV podaje tylko nazwy
+     stanowisk, więc te punkty są do napisania przez Ciebie.
+     Uwaga: nie podawaj danych poufnych pracodawcy.
+     ══════════════════════════════════════════════════════════════════ -->
+
+## Experience
+
+::: {.entry}
+::: {.entry-date}
+08/2025 – present
+:::
+::: {.entry-body}
+::: {.entry-title}
+HR Data Analyst Partner
+:::
+::: {.entry-org}
+Jacobs
+:::
+
+- <!-- TODO --> Zakres odpowiedzialności — do uzupełnienia.
+- <!-- TODO --> Kluczowy projekt lub wynik — do uzupełnienia.
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+04/2025 – 07/2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+People Analytics Lead Analyst
+:::
+::: {.entry-org}
+Aptiv
+:::
+
+- <!-- TODO --> Zakres odpowiedzialności — do uzupełnienia.
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+06/2022 – 03/2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+HR Data Analyst
+:::
+::: {.entry-org}
+Aptiv
+:::
+
+- <!-- TODO --> Zakres odpowiedzialności — do uzupełnienia.
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+06/2021 – 05/2022
+:::
+::: {.entry-body}
+::: {.entry-title}
+Intern, People Analytics Team
+:::
+::: {.entry-org}
+Aptiv
+:::
+:::
+:::
+
+## Tools
+
+<!-- TODO: dopasuj listę do tego, czego faktycznie używasz na co dzień. -->
+
+::: {.tags}
+- R
+- SQL
+- Power BI
+- Excel
+- Data Modelling
+- Reporting Automation
+:::
+
+## Working together
+
+I am open to consulting and collaboration on quantitative projects — workforce analytics,
+economic impact assessment and Input–Output based scenario modelling.
+[Get in touch](contact.qmd).

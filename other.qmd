@@ -1,0 +1,131 @@
+---
+title: "Other activities"
+pagetitle: "Other activities — Kamil Gacek"
+description-meta: "Scholarships, memberships, academic service and peer review."
+page-layout: article
+---
+
+## Scholarships and awards
+
+::: {.entry}
+::: {.entry-date}
+2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+TopMinds 2025 Program Participant
+:::
+::: {.entry-org}
+Polish–American Fulbright Commission and Top 500 Innovators
+:::
+Selected for the mentoring programme run jointly by the Polish–American Fulbright Commission and
+the Top 500 Innovators association.
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2025 / 2026
+:::
+::: {.entry-body}
+::: {.entry-title}
+Two scholarships for the best PhD students
+:::
+::: {.entry-org}
+AGH University of Krakow
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+Funding for the purchase of computer equipment for the best doctoral students
+:::
+::: {.entry-org}
+AGH University of Krakow
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2024 / 2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+Two scholarships for the best PhD students
+:::
+::: {.entry-org}
+AGH University of Krakow
+:::
+:::
+:::
+
+## Memberships
+
+::: {.entry}
+::: {.entry-date}
+since 12/2024
+:::
+::: {.entry-body}
+::: {.entry-title}
+Polish Economic Society
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+since 12/2023
+:::
+::: {.entry-body}
+::: {.entry-title}
+International Input–Output Association
+:::
+:::
+:::
+
+## Academic service
+
+::: {.entry}
+::: {.entry-date}
+since 2026
+:::
+::: {.entry-body}
+::: {.entry-title}
+Ad-hoc reviewer
+:::
+::: {.entry-org}
+*Science and Engineering Journal* (SciEnggJ)
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+since 03/2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+National Doctoral Council — Projects Team
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+since 10/2024
+:::
+::: {.entry-body}
+::: {.entry-title}
+Discipline Council for Economics and Finance
+:::
+::: {.entry-org}
+AGH University of Krakow
+:::
+:::
+:::

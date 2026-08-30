@@ -1,0 +1,29 @@
+---
+title: "Curriculum vitae"
+pagetitle: "CV — Kamil Gacek"
+description-meta: "Academic CV of Kamil Gacek, PhD student in Economics and Finance at AGH University of Krakow."
+page-layout: article
+---
+
+My full academic CV covers education, research and teaching, publications, conference
+presentations, funding and professional experience.
+
+[Download CV (PDF)](files/CV_Kamil_Gacek.pdf){.btn-cv}
+
+<!-- Data aktualizacji — pamiętaj, żeby zmieniać razem z plikiem PDF. -->
+::: {.entry-date}
+Last updated: August 2026
+:::
+
+## In short
+
+::: {.linklist}
+- [Position]{.linklist-label} PhD student and Research & Teaching Assistant, AGH University of Krakow
+- [Field]{.linklist-label} Economics and finance; environmental economics; applied mathematics
+- [Dissertation]{.linklist-label} Input–Output Models in Disaster Impact Assessment
+- [Degrees]{.linklist-label} MBA; MSc Applied Mathematics; BSc Finance; BSc Mathematics
+- [Publications]{.linklist-label} Four peer-reviewed articles, one under review
+- [Funding]{.linklist-label} Principal Investigator on two university mini-grants
+:::
+
+To replace the file, drop a new PDF into `files/` under the same name and render the site again.
