@@ -1,0 +1,32 @@
+{
+  "conferences.qmd": {
+    "conferences.html": "ff46d894"
+  },
+  "contact.qmd": {
+    "contact.html": "ed9e5572"
+  },
+  "cv.qmd": {
+    "cv.html": "88b31c09"
+  },
+  "grants.qmd": {
+    "grants.html": "f2cededd"
+  },
+  "index.qmd": {
+    "index.html": "1e0fbc3a"
+  },
+  "industry.qmd": {
+    "industry.html": "2238bc75"
+  },
+  "other.qmd": {
+    "other.html": "0390ecfe"
+  },
+  "publications.qmd": {
+    "publications.html": "f9f190dd"
+  },
+  "research.qmd": {
+    "research.html": "a2b2322d"
+  },
+  "teaching.qmd": {
+    "teaching.html": "28da89e2"
+  }
+}

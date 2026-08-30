@@ -60,32 +60,59 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 <link rel="preconnect" href="https://fonts.googleapis.com">
+
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&amp;family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&amp;family=IBM+Plex+Mono:wght@400;500&amp;family=Noto+Color+Emoji&amp;display=swap" rel="stylesheet">
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 
+
+
+
 <!-- ═══════════════════════════════════════════════════════════════
+
      ANALITYKA ODWIEDZIN — wybierz JEDNĄ opcję i odkomentuj.
+
      Szczegóły w README.md, sekcja "Analityka".
+
      ═══════════════════════════════════════════════════════════════ -->
 
+
+
 <!-- OPCJA A — GoatCounter (darmowy, bez ciasteczek, bez baneru RODO)
+
      Zarejestruj się na https://www.goatcounter.com, wstaw swój kod zamiast TWOJ-KOD:
+
 <script data-goatcounter="https://TWOJ-KOD.goatcounter.com/count"
+
         async src="//gc.zgo.at/count.js"></script>
+
 -->
+
+
 
 <!-- OPCJA B — Plausible (płatny ~9 USD/mies., bez ciasteczek)
+
 <script defer data-domain="kamilgacek.com" src="https://plausible.io/js/script.js"></script>
+
 -->
 
+
+
 <!-- OPCJA C — Google Analytics 4: nie wstawiaj tutaj.
+
      Wpisz w _quarto.yml, w sekcji website:
+
        google-analytics: "G-XXXXXXXXXX"
+
      Uwaga: GA używa ciasteczek, więc potrzebujesz baneru zgody (cookie-consent w Quarto).
+
 -->
+
 
 
 </head>
@@ -98,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Kamil Gacek</span>
+    <span class="navbar-title">kgacek.com</span>
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -276,20 +303,35 @@ ul.task-list li input[type="checkbox"] {
 
 </main> <!-- /main -->
 <script>
+
 // Kliknięcie w "Research" w belce przenosi na stronę Overview.
+
 // Rozwijana lista nadal otwiera się samym najechaniem.
+
 document.addEventListener('DOMContentLoaded', function () {
+
   document.querySelectorAll('.navbar .nav-item.dropdown > .dropdown-toggle')
+
     .forEach(function (toggle) {
+
       if (toggle.textContent.trim().toLowerCase() !== 'research') return;
+
       toggle.addEventListener('click', function (event) {
+
         event.preventDefault();
+
         event.stopPropagation();
+
         window.location.href = 'research.html';
+
       });
+
     });
+
 });
+
 </script>
+
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const isCodeAnnotation = (el) => {
@@ -692,13 +734,13 @@ document.addEventListener('DOMContentLoaded', function () {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2026 Kamil Gacek</p>
-</div>   
+      &nbsp;
+    </div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p>Built with <a href="https://quarto.org">Quarto</a></p>
+<p>© 2026 Kamil Gacek</p>
 </div>
   </div>
 </footer>
