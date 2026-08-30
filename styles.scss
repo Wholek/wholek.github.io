@@ -79,6 +79,12 @@ $grid-column-gutter-width: .95rem !default;
   --kg-gap: 2.6rem;
   --kg-text: 760px;
   --kg-page: calc(var(--kg-sidebar) + var(--kg-gap) + var(--kg-text));
+
+  // Blok jest domyślnie wyśrodkowany, ale kolumna tekstu siedzi w jego
+  // prawej części, więc optycznie ucieka w prawo. Ta wartość przesuwa
+  // całość w lewo. 100px ustawia sam tekst dokładnie na środku ekranu;
+  // zwiększ, żeby przesunąć dalej, zmniejsz albo wyzeruj, żeby cofnąć.
+  --kg-shift: 100px;
 }
 
 // ═══ UKŁAD STRONY ══════════════════════════════════════════════════
@@ -100,6 +106,8 @@ main.content {
     gap: 0 var(--kg-gap);
     max-width: var(--kg-page);
     margin-inline: auto;
+    position: relative;
+    right: var(--kg-shift);
   }
 
   #quarto-content > #quarto-sidebar {
@@ -133,10 +141,14 @@ main.content {
   margin-inline: auto;
   padding-left: 0;
   padding-right: 0;
+  position: relative;
+  right: var(--kg-shift);
 }
 
 // Na wąskich ekranach wszystko zwęża się do marginesu bocznego.
 @media (max-width: 1060px) {
+  :root { --kg-shift: 0px; }
+
   #quarto-content,
   main.content,
   .navbar > .container-fluid,
