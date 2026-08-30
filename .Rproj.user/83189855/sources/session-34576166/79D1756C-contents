@@ -3,11 +3,13 @@ project:
   output-dir: docs          # katalog, który publikujesz (GitHub Pages / Netlify)
   resources:
     - files/                # PDF-y i inne pliki do pobrania
+    - .nojekyll             # wyłącza przetwarzanie Jekyllem na GitHub Pages
+    - CNAME                 # własna domena — bez tego pliku GitHub ją gubi
 
 website:
   title: "Kamil Gacek"
   description: "Kamil Gacek — PhD candidate in Economics and Finance, AGH University of Krakow. Input-Output modelling, water footprint and disaster impact assessment."
-  # site-url: "https://kamilgacek.com"     # odkomentuj po wykupieniu domeny
+  site-url: "https://kgacek.com"
   favicon: images/favicon.png
   search: false
   navbar:
@@ -54,7 +56,8 @@ website:
 
   page-footer:
     border: true
-    right: "© 2026 Kamil Gacek"
+    left: "© 2026 Kamil Gacek"
+    right: "Built with [Quarto](https://quarto.org)"
 
 format:
   html:

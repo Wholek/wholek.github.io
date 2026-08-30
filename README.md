@@ -119,3 +119,22 @@ domenę podpinasz w panelu. Też darmowe w tej skali.
 
 Edytujesz `.qmd` → `quarto render` → `git add . && git commit -m "update" && git push`.
 Zmiana jest widoczna po chwili.
+
+## 9. Plik `.nojekyll`
+
+W katalogu projektu leży pusty plik `.nojekyll`, kopiowany przy renderowaniu do `docs/`.
+GitHub Pages domyślnie przepuszcza strony przez Jekylla, który ignoruje katalogi
+zaczynające się od podkreślnika. Ten plik to wyłącza. Bez niego część stylów i skryptów
+może się nie załadować po publikacji. Nie kasuj go.
+
+## 10. Plik `CNAME`
+
+W katalogu projektu leży plik `CNAME` z jedną linią: nazwą Twojej domeny. Przy renderowaniu
+trafia do `docs/` i to on mówi GitHub Pages, pod jakim adresem ma serwować stronę.
+
+Bez niego wygląda to tak: ustawiasz domenę w Settings → Pages, GitHub tworzy ten plik sam,
+a przy najbliższym `quarto render` katalog `docs/` jest odtwarzany i plik znika. Domena
+przestaje działać, na pozór bez powodu. Trzymanie `CNAME` w źródłach projektu zamyka
+ten problem raz na zawsze.
+
+Zmieniasz domenę? Popraw zawartość tego pliku i `site-url` w `_quarto.yml`.
