@@ -115,8 +115,11 @@ main.content {
     margin-inline: 0;
   }
 
+  // Bez listy podstron kolumna tekstu jest wyśrodkowana w bloku, dzięki
+  // czemu marginesy po obu stronach są równe. Wejście do sekcji Research
+  // przesuwa ją w prawo, bo miejsce po lewej zajmuje wtedy lista.
   #quarto-content:not(:has(#quarto-sidebar)) > main.content {
-    margin-left: calc(var(--kg-sidebar) + var(--kg-gap));
+    margin-inline: auto;
   }
 
   #quarto-sidebar-glass { display: none; }
@@ -137,8 +140,6 @@ main.content {
 
 // Na wąskich ekranach wszystko zwęża się do marginesu bocznego.
 @media (max-width: 1060px) {
-  .navbar .navbar-brand { width: auto; }
-
   #quarto-content,
   main.content,
   .navbar > .container-fluid,
@@ -153,20 +154,6 @@ main.content {
 .navbar {
   border-bottom: 1px solid var(--kg-rule);
   padding-block: .8rem;
-}
-
-// Nazwa ma szerokość równą lewej kolumnie (lista podstron + odstęp),
-// więc ramka pierwszego taba — a z nią podkreślenie pod nim — zaczyna
-// się dokładnie nad lewą krawędzią tekstu strony.
-.navbar .navbar-brand {
-  flex: 0 0 auto;
-  width: calc(var(--kg-sidebar) + var(--kg-gap));
-  font-family: var(--kg-serif);
-  font-size: 1.5rem;
-  font-weight: 600;
-  letter-spacing: -.01em;
-  color: var(--kg-ink);
-  margin-right: 0;
 }
 
 .navbar .navbar-nav .nav-link {

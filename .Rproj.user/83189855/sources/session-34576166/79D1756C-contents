@@ -13,7 +13,7 @@ website:
   favicon: images/favicon.png
   search: false
   navbar:
-    title: "kgacek.com"
+    title: false
     left:
       - href: index.qmd
         text: About
