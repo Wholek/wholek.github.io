@@ -115,11 +115,8 @@ main.content {
     margin-inline: 0;
   }
 
-  // Bez listy podstron kolumna tekstu jest wyśrodkowana w bloku, dzięki
-  // czemu marginesy po obu stronach są równe. Wejście do sekcji Research
-  // przesuwa ją w prawo, bo miejsce po lewej zajmuje wtedy lista.
   #quarto-content:not(:has(#quarto-sidebar)) > main.content {
-    margin-inline: auto;
+    margin-left: calc(var(--kg-sidebar) + var(--kg-gap));
   }
 
   #quarto-sidebar-glass { display: none; }
@@ -154,6 +151,15 @@ main.content {
 .navbar {
   border-bottom: 1px solid var(--kg-rule);
   padding-block: .8rem;
+}
+
+// Nazwa zniknęła z belki, ale jej miejsce zostaje puste — pierwszy tab
+// zaczyna się dokładnie nad lewą krawędzią tekstu strony, tak jak wcześniej.
+@media (min-width: 992px) {
+  .navbar .navbar-collapse > .navbar-nav:first-of-type,
+  .navbar .navbar-nav.me-auto {
+    margin-left: calc(var(--kg-sidebar) + var(--kg-gap));
+  }
 }
 
 .navbar .navbar-nav .nav-link {
