@@ -36,51 +36,50 @@ Krakow, Poland
 - Applied Mathematics
 :::
 
-## Education and affiliations
-
-I studied at the Jagiellonian University in Krakow, where I graduated in Mathematics in 2020,
-in Applied Mathematics in 2022 and in Finance, Banking and Insurance in 2022; I completed an
-MBA at WSB University in 2025. Since 2023 I have been a doctoral student in Economics and
-Finance at AGH University of Krakow, writing a dissertation on Input–Output models in disaster
-impact assessment under the supervision of Prof. Łukasz Lach. In October 2025 I joined the
-Department of Applications of Mathematics in Economics at the Faculty of Management as a
-Research and Teaching Assistant. Between 2024 and 2026 I also worked as a research assistant
-in the POLPAN project at the Institute of Philosophy and Sociology of the Polish Academy of
-Sciences. I sit on the Discipline Council for Economics and Finance at AGH and on the Projects
-Team of the National Doctoral Council. I am a member of the International Input–Output
-Association and the Polish Economic Society, and a 2025 participant of TopMinds, the mentoring
-programme run by the Polish–American Fulbright Commission and Top 500 Innovators.
-
 ## Research
 
-My work sits between environmental economics and applied mathematical modelling. I use
-environmentally extended Input–Output frameworks to trace how a physical shortage — most often
-of water — propagates through an economy: which sectors draw on it directly, which depend on it
-through their supply chains, and how large the losses become once the disruption cascades.
-Structural decomposition analysis for the 2010–2020 period lets me separate the drivers behind
-changing water and waste intensities, from technological shifts to changes in final demand,
-while backward and forward linkage analysis identifies the sectors that carry the highest water
-footprint. Dynamic Inoperability Input–Output Models then translate a shortage into cumulative
-economic losses along each sector's recovery path. In ongoing work with Prof. Joost R. Santos
-at George Washington University this is combined with a Nature Value-at-Risk perspective to
-quantify drought-induced systemic risk in Poland. The longer-term aim is an interactive model
-that lets stakeholders simulate disruptions and test risk management strategies before a
-drought arrives, rather than account for one after it has passed.
-[See my research page for details](research.qmd), or go straight to the
-[publications](publications.qmd).
+I am a Research and Teaching Assistant at the Faculty of Management, AGH University of Krakow.
+My research combines environmental economics with applied mathematical modelling, and it starts
+from a question that is harder than it looks:
+
+::: {.pullquote}
+What does a water shortage actually cost an economy that does not think of itself as
+water-dependent?
+:::
+
+Most of the water an industry relies on it never touches. It arrives embedded in inputs — in
+materials, energy, food, transport — which means that a drought hits sectors that have no visible
+connection to it, and hits them late enough that the link is easy to miss. I use Input–Output
+frameworks to make that structure visible, to attribute a rising water footprint to the forces
+behind it, and to translate a shortage into the losses that accumulate along each sector's
+recovery path. The point is to move the question from after to before: to let a shortage be
+simulated rather than surveyed, and mitigation strategies compared before they are needed. You can
+read more about my research [here](research.qmd).
+
+Alongside this I have been a research assistant in the POLPAN project at the Institute of
+Philosophy and Sociology of the Polish Academy of Sciences since 2024, working on statistical
+analysis of the 1988–2023 longitudinal panel. I also sit on the Discipline Council for Economics
+and Finance at AGH.
+
+## Education
+
+I studied at the Jagiellonian University in Krakow, where I completed a Bachelor's in Mathematics
+(2020), a Master's in Applied Mathematics (2022) and a second Bachelor's, in Finance, Banking and
+Insurance (2022). In 2025 I completed an MBA at WSB University in Krakow. Since 2023 I have been a
+doctoral candidate in Economics and Finance at AGH University of Krakow, writing a dissertation on
+Input–Output models in disaster impact assessment under the supervision of Prof. Łukasz Lach and
+Dr Anna Dubel. In 2025 I took part in TopMinds, a mentoring programme run by the Polish–American
+Fulbright Commission and Top 500 Innovators.
 
 ## Industry
 
-For the past five years I have worked in people analytics and HR data analysis in global
-engineering organisations, currently as HR Data Analyst Partner at Jacobs and previously at
-Aptiv, where I moved from an internship to a lead analyst role. The work covers workforce
-data modelling, reporting automation and the kind of analysis that has to survive contact with
-imperfect records and a deadline. Keeping one foot in practice makes me careful about what
-data can actually support, and it trains the harder half of any quantitative project:
-explaining a result to people who will act on it but do not read econometrics. The two tracks
-turn out to ask the same question — what changes if this goes wrong — on different scales.
-I am open to consulting and collaboration on quantitative projects.
-[More on my industry work](industry.qmd).
+For the past five years I have worked in people analytics in global engineering organisations —
+currently as HR Data Analyst Partner at Jacobs, and before that at Aptiv, where I moved from an
+internship to a lead analyst role. In both cases the work sits in a global team supporting the
+whole organisation on HR analytics: ad hoc questions, individual reports and studies, modelling
+and day-to-day support for the business, alongside long-running analytical projects that I take
+through every stage, from the business context and the requirements to building, testing and
+maintaining what comes out of them. You can read more about my industry work [here](industry.qmd).
 
 ## Elsewhere
 

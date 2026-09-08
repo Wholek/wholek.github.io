@@ -5,8 +5,9 @@ description-meta: "How to reach Kamil Gacek at AGH University of Krakow."
 page-layout: article
 ---
 
-The fastest way to reach me is by e-mail. I am happy to hear from potential collaborators,
-about research visits and joint projects, and from students with questions about my courses.
+The fastest way to reach me is by e-mail, and I am always happy to hear from you — whether you
+would like to talk about joint projects and collaboration, a research visit, or simply have a
+question.
 
 ## Details
 
@@ -20,15 +21,9 @@ about research visits and joint projects, and from students with questions about
 
 ## Profiles
 
-::: {.linklist}
+::: {.linklist .inline}
 - [[]{.bi .bi-linkedin .profile-icon}[LinkedIn]{.linklist-label}](https://www.linkedin.com/in/kamil-gacek/)
 - [[]{.ai .ai-google-scholar .profile-icon}[Google Scholar]{.linklist-label}](https://scholar.google.com/citations?user=Bo11EggAAAAJ&hl=pl)
 - [[]{.ai .ai-researchgate .profile-icon}[Research Gate]{.linklist-label}](https://www.researchgate.net/profile/Kamil-Gacek-2)
 - [[]{.ai .ai-orcid .profile-icon}[ORCID]{.linklist-label}](https://orcid.org/0009-0002-0235-3232)
 :::
-
-## For students
-
-Office hours are held during the semester at the Faculty of Management; the current schedule
-is announced on the AGH course pages. Questions about assignments, quizzes and exams are
-welcome by e-mail.

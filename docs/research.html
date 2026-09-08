@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,13 +13,10 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
+code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: 1.5em;}
-div.column{flex: auto;}
-@media screen {
-div.columns{gap: min(4vw, 1.5em);}
-div.column{overflow-x: auto;}
-}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,10 +36,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-cb682fa1532749ab170030a7aa81330c.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7ebcd8d6d84910df5062aada6d3c69fc.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3ee8a2c84a8aebe73d1a8ca9d299e515.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-34bfa24d1a7eb2e643cf6fd8282dbed2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -60,32 +57,59 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 <link rel="preconnect" href="https://fonts.googleapis.com">
+
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&amp;family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&amp;family=IBM+Plex+Mono:wght@400;500&amp;family=Noto+Color+Emoji&amp;display=swap" rel="stylesheet">
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
 
+
+
+
 <!-- ═══════════════════════════════════════════════════════════════
+
      ANALITYKA ODWIEDZIN — wybierz JEDNĄ opcję i odkomentuj.
+
      Szczegóły w README.md, sekcja "Analityka".
+
      ═══════════════════════════════════════════════════════════════ -->
 
+
+
 <!-- OPCJA A — GoatCounter (darmowy, bez ciasteczek, bez baneru RODO)
+
      Zarejestruj się na https://www.goatcounter.com, wstaw swój kod zamiast TWOJ-KOD:
+
 <script data-goatcounter="https://TWOJ-KOD.goatcounter.com/count"
+
         async src="//gc.zgo.at/count.js"></script>
+
 -->
+
+
 
 <!-- OPCJA B — Plausible (płatny ~9 USD/mies., bez ciasteczek)
+
 <script defer data-domain="kamilgacek.com" src="https://plausible.io/js/script.js"></script>
+
 -->
 
+
+
 <!-- OPCJA C — Google Analytics 4: nie wstawiaj tutaj.
+
      Wpisz w _quarto.yml, w sekcji website:
+
        google-analytics: "G-XXXXXXXXXX"
+
      Uwaga: GA używa ciasteczek, więc potrzebujesz baneru zgody (cookie-consent w Quarto).
+
 -->
+
 
 
 </head>
@@ -233,7 +257,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>My research bridges environmental economics and applied mathematical modelling to assess the macroeconomic consequences of droughts and other physical disruptions in the Polish economy. Input–Output frameworks let me examine direct and indirect sectoral water dependencies and understand how a shortage in one place turns into a cascading economic shock somewhere else. I work with environmentally extended Input–Output models, structural decomposition and path analysis, backward and forward linkages, and Dynamic Inoperability Input–Output Models.</p>
+<p>Input–Output models describe an economy as a web of mutual supplies: every sector’s output is another sector’s input, so a change in one place is never confined to it. I work with the environmentally extended version of that framework, in which a physical quantity — water above all — travels alongside the monetary flows. That makes it possible to ask how much of a resource an activity uses directly and how much it draws through everything it buys, to decompose a change in resource use into the forces behind it, and to follow a disruption as it spreads through the structure of production. The computation is done in R, on national supply-and-use and Input–Output tables combined with environmental accounts. The reason for working this way is that the damage from a physical shortage is mostly indirect, and indirect damage tends to go uncounted: it is assessed once the season is over, sector by sector, and whatever cannot be traced drops out of the total. A model of the dependencies makes that part visible in advance. The longer-term aim is a usable tool: a model in which a disruption can be simulated and mitigation strategies compared before a drought, rather than accounted for after one.</p>
 <div class="navcards">
 <div class="navcard">
 <p><a href="./publications.html" class="navcard-label">Publications</a></p>
@@ -271,20 +295,35 @@ ul.task-list li input[type="checkbox"] {
 
 </main> <!-- /main -->
 <script>
+
 // Kliknięcie w "Research" w belce przenosi na stronę Overview.
+
 // Rozwijana lista nadal otwiera się samym najechaniem.
+
 document.addEventListener('DOMContentLoaded', function () {
+
   document.querySelectorAll('.navbar .nav-item.dropdown > .dropdown-toggle')
+
     .forEach(function (toggle) {
+
       if (toggle.textContent.trim().toLowerCase() !== 'research') return;
+
       toggle.addEventListener('click', function (event) {
+
         event.preventDefault();
+
         event.stopPropagation();
+
         window.location.href = 'research.html';
+
       });
+
     });
+
 });
+
 </script>
+
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const isCodeAnnotation = (el) => {
@@ -687,13 +726,13 @@ document.addEventListener('DOMContentLoaded', function () {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2026 Kamil Gacek</p>
-</div>   
+      &nbsp;
+    </div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p>Built with <a href="https://quarto.org">Quarto</a></p>
+<p>© 2026 Kamil Gacek</p>
 </div>
   </div>
 </footer>

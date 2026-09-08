@@ -5,12 +5,19 @@ description-meta: "Environmentally extended Input–Output modelling, water foot
 page-layout: article
 ---
 
-My research bridges environmental economics and applied mathematical modelling to assess the
-macroeconomic consequences of droughts and other physical disruptions in the Polish economy.
-Input–Output frameworks let me examine direct and indirect sectoral water dependencies and
-understand how a shortage in one place turns into a cascading economic shock somewhere else.
-I work with environmentally extended Input–Output models, structural decomposition and path
-analysis, backward and forward linkages, and Dynamic Inoperability Input–Output Models.
+Input–Output models describe an economy as a web of mutual supplies: every sector's output is
+another sector's input, so a change in one place is never confined to it. I work with the
+environmentally extended version of that framework, in which a physical quantity — water above all
+— travels alongside the monetary flows. That makes it possible to ask how much of a resource an
+activity uses directly and how much it draws through everything it buys, to decompose a change in
+resource use into the forces behind it, and to follow a disruption as it spreads through the
+structure of production. The computation is done in R, on national supply-and-use and Input–Output
+tables combined with environmental accounts. The reason for working this way is that the damage
+from a physical shortage is mostly indirect, and indirect damage tends to go uncounted: it is
+assessed once the season is over, sector by sector, and whatever cannot be traced drops out of the
+total. A model of the dependencies makes that part visible in advance. The longer-term aim is a
+usable tool: a model in which a disruption can be simulated and mitigation strategies compared
+before a drought, rather than accounted for after one.
 
 ::: {.navcards}
 

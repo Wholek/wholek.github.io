@@ -319,6 +319,33 @@ main.content .linklist p {
   margin: 0;
 }
 
+// ═══ CYTAT WYRÓŻNIONY ══════════════════════════════════════════════
+// Jedno zdanie wyjęte z akapitu: kursywa szeryfowa, wyśrodkowana,
+// w węższej kolumnie niż tekst główny, z zapasem powietrza wokół.
+.pullquote {
+  margin: 1.9rem auto;
+  max-width: 34rem;
+}
+
+main.content .pullquote,
+main.content .pullquote p {
+  font-family: var(--kg-serif);
+  font-size: 1.16rem;
+  font-style: italic;
+  line-height: 1.5;
+  text-align: center;
+  hyphens: manual;
+  text-wrap: balance;
+  color: var(--kg-gold-deep);
+}
+
+main.content .pullquote p { margin: 0; }
+
+@media (max-width: 767.98px) {
+  main.content .pullquote,
+  main.content .pullquote p { font-size: 1.06rem; }
+}
+
 // ═══ HERO (strona główna) ══════════════════════════════════════════
 .hero {
   display: flex;
@@ -765,6 +792,26 @@ main.content .linklist li:last-child { border-bottom: 0; }
 main.content .linklist a { border-bottom: 0; }
 
 main.content .linklist a:hover .linklist-label { color: var(--kg-gold); }
+
+// Wariant poziomy — używany na liście profili: pozycje stoją w jednym
+// wierszu i zawijają się dopiero wtedy, gdy zabraknie miejsca.
+main.content .linklist.inline ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: .4rem 1.2rem;
+}
+
+main.content .linklist.inline li {
+  padding: 0;
+  border-bottom: 0;
+}
+
+main.content .linklist.inline .linklist-label {
+  display: inline;
+  min-width: 0;
+  margin-bottom: 0;
+}
 
 // ═══ PRZYCISK (pobierz CV) ═════════════════════════════════════════
 main.content a.btn-cv {

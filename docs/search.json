@@ -4,7 +4,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "I teach mathematics and quantitative methods at the Faculty of Management, AGH University of Krakow, mostly to students who will use these tools rather than prove theorems with them. My aim in every course is that a method arrives together with the question it answers.",
+    "text": "I teach mathematics and quantitative methods at the Faculty of Management, AGH University of Krakow. The courses are taken by students of Management, Management and Production Engineering, and Computer Science and Econometrics, so the emphasis falls on a solid grasp of the material and on the uses it is put to.",
     "crumbs": [
       "Teaching"
     ]
@@ -24,7 +24,7 @@
     "href": "teaching.html#for-students",
     "title": "Teaching",
     "section": "For students",
-    "text": "For students\nI am happy to supervise or co-supervise theses that use Input–Output methods, environmental accounting or applied statistics on Polish data. If you have an idea in that area, write to me with a paragraph describing it.",
+    "text": "For students\nI am happy to co-supervise theses that use Input–Output methods, environmental accounting or applied statistics. If you have an idea in that area, or would simply like to talk through the possibilities, let me know.",
     "crumbs": [
       "Teaching"
     ]
@@ -64,28 +64,21 @@
     "href": "industry.html",
     "title": "Industry experience",
     "section": "",
-    "text": "Parallel to my academic work I have spent five years in people analytics and HR data analysis in global engineering organisations. The two tracks feed each other: modelling teaches me to be careful about what the numbers can support, and analytics practice keeps me close to imperfect data, stakeholders on a deadline, and results that have to be explained to people who do not read econometrics."
+    "text": "For the past five years I have worked in people analytics in global engineering organisations — first at Aptiv, and since 2025 at Jacobs — in both cases within global teams supporting the whole organisation on HR analytics. The work covers ad hoc questions, individual reports and studies, modelling and day-to-day support for the business, and equally the long-running analytical projects — reporting environments built in Power BI, R and whatever else the problem calls for. On those I am involved at every stage: understanding the business context, gathering requirements, scoping the work and identifying its risks, advising on how the problem is best approached, then building the solution, testing and validating it, and maintaining it once it is in use. What I aim for in all of it is to be a partner to the business rather than a supplier of numbers — the person a stakeholder brings a problem to, not a specification."
   },
   {
     "objectID": "industry.html#experience",
     "href": "industry.html#experience",
     "title": "Industry experience",
     "section": "Experience",
-    "text": "Experience\n\n\n08/2025 – present\n\n\n\nHR Data Analyst Partner\n\n\nJacobs\n\n\n\nZakres odpowiedzialności — do uzupełnienia.\n\nKluczowy projekt lub wynik — do uzupełnienia.\n\n\n\n\n\n04/2025 – 07/2025\n\n\n\nPeople Analytics Lead Analyst\n\n\nAptiv\n\n\n\nZakres odpowiedzialności — do uzupełnienia.\n\n\n\n\n\n06/2022 – 03/2025\n\n\n\nHR Data Analyst\n\n\nAptiv\n\n\n\nZakres odpowiedzialności — do uzupełnienia.\n\n\n\n\n\n06/2021 – 05/2022\n\n\n\nIntern, People Analytics Team\n\n\nAptiv"
+    "text": "Experience\n\n\n08/2025 – present\n\n\n\nHR Data Analyst Partner\n\n\nJacobs\n\n\n\n\n\n04/2025 – 07/2025\n\n\n\nPeople Analytics Lead Analyst\n\n\nAptiv\n\n\nOwnership of whole analytical areas rather than individual requests.\nRetention, compensation and workforce planning analyses for a global employee population.\n\n\n\n\n\n06/2022 – 03/2025\n\n\n\nHR Data Analyst\n\n\nAptiv\n\n\nBuilt and maintained the reporting and dashboard layer used across regions.\nTurnover and retention analysis, including cohort tracking, alongside analyses of compensation, employment costs and talent acquisition data.\nData modelling and harmonisation of sources across HR systems, with Workday as the main system of record.\n\n\n\n\n\n06/2021 – 05/2022\n\n\n\nIntern, People Analytics Team\n\n\nAptiv\n\n\nFirst contact with HR data at scale, supporting the team’s reporting work."
   },
   {
     "objectID": "industry.html#tools",
     "href": "industry.html#tools",
     "title": "Industry experience",
     "section": "Tools",
-    "text": "Tools\n\n\n\nR\nSQL\nPower BI\nExcel\nData Modelling\nReporting Automation"
-  },
-  {
-    "objectID": "industry.html#working-together",
-    "href": "industry.html#working-together",
-    "title": "Industry experience",
-    "section": "Working together",
-    "text": "Working together\nI am open to consulting and collaboration on quantitative projects — workforce analytics, economic impact assessment and Input–Output based scenario modelling. Get in touch."
+    "text": "Tools\n\n\nPower BI\nR\nExcel\nPower Query\nVBA\nWorkday\nClaude AI\nMicrosoft Copilot"
   },
   {
     "objectID": "grants.html",
@@ -122,7 +115,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "The fastest way to reach me is by e-mail. I am happy to hear from potential collaborators, about research visits and joint projects, and from students with questions about my courses."
+    "text": "The fastest way to reach me is by e-mail, and I am always happy to hear from you — whether you would like to talk about joint projects and collaboration, a research visit, or simply have a question."
   },
   {
     "objectID": "contact.html#details",
@@ -234,25 +227,25 @@
     "text": "Keywords\n\n\nInput–Output Analysis\nEnvironmentally Extended IO\nWater Footprint\nStructural Decomposition Analysis\nStructural Path Analysis\nDynamic Inoperability IO Models\nDrought and Disaster Risk\nEnvironmental Economics\nApplied Mathematics"
   },
   {
-    "objectID": "index.html#education-and-affiliations",
-    "href": "index.html#education-and-affiliations",
-    "title": "Kamil Gacek",
-    "section": "Education and affiliations",
-    "text": "Education and affiliations\nI studied at the Jagiellonian University in Krakow, where I graduated in Mathematics in 2020, in Applied Mathematics in 2022 and in Finance, Banking and Insurance in 2022; I completed an MBA at WSB University in 2025. Since 2023 I have been a doctoral student in Economics and Finance at AGH University of Krakow, writing a dissertation on Input–Output models in disaster impact assessment under the supervision of Prof. Łukasz Lach. In October 2025 I joined the Department of Applications of Mathematics in Economics at the Faculty of Management as a Research and Teaching Assistant. Between 2024 and 2026 I also worked as a research assistant in the POLPAN project at the Institute of Philosophy and Sociology of the Polish Academy of Sciences. I sit on the Discipline Council for Economics and Finance at AGH and on the Projects Team of the National Doctoral Council. I am a member of the International Input–Output Association and the Polish Economic Society, and a 2025 participant of TopMinds, the mentoring programme run by the Polish–American Fulbright Commission and Top 500 Innovators."
-  },
-  {
     "objectID": "index.html#research",
     "href": "index.html#research",
     "title": "Kamil Gacek",
     "section": "Research",
-    "text": "Research\nMy work sits between environmental economics and applied mathematical modelling. I use environmentally extended Input–Output frameworks to trace how a physical shortage — most often of water — propagates through an economy: which sectors draw on it directly, which depend on it through their supply chains, and how large the losses become once the disruption cascades. Structural decomposition analysis for the 2010–2020 period lets me separate the drivers behind changing water and waste intensities, from technological shifts to changes in final demand, while backward and forward linkage analysis identifies the sectors that carry the highest water footprint. Dynamic Inoperability Input–Output Models then translate a shortage into cumulative economic losses along each sector’s recovery path. In ongoing work with Prof. Joost R. Santos at George Washington University this is combined with a Nature Value-at-Risk perspective to quantify drought-induced systemic risk in Poland. The longer-term aim is an interactive model that lets stakeholders simulate disruptions and test risk management strategies before a drought arrives, rather than account for one after it has passed. See my research page for details, or go straight to the publications."
+    "text": "Research\nI am a Research and Teaching Assistant at the Faculty of Management, AGH University of Krakow. My research combines environmental economics with applied mathematical modelling, and it starts from a question that is harder than it looks:\n\nWhat does a water shortage actually cost an economy that does not think of itself as water-dependent?\n\nMost of the water an industry relies on it never touches. It arrives embedded in inputs — in materials, energy, food, transport — which means that a drought hits sectors that have no visible connection to it, and hits them late enough that the link is easy to miss. I use Input–Output frameworks to make that structure visible, to attribute a rising water footprint to the forces behind it, and to translate a shortage into the losses that accumulate along each sector’s recovery path. The point is to move the question from after to before: to let a shortage be simulated rather than surveyed, and mitigation strategies compared before they are needed. You can read more about my research here.\nAlongside this I have been a research assistant in the POLPAN project at the Institute of Philosophy and Sociology of the Polish Academy of Sciences since 2024, working on statistical analysis of the 1988–2023 longitudinal panel. I also sit on the Discipline Council for Economics and Finance at AGH."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kamil Gacek",
+    "section": "Education",
+    "text": "Education\nI studied at the Jagiellonian University in Krakow, where I completed a Bachelor’s in Mathematics (2020), a Master’s in Applied Mathematics (2022) and a second Bachelor’s, in Finance, Banking and Insurance (2022). In 2025 I completed an MBA at WSB University in Krakow. Since 2023 I have been a doctoral candidate in Economics and Finance at AGH University of Krakow, writing a dissertation on Input–Output models in disaster impact assessment under the supervision of Prof. Łukasz Lach and Dr Anna Dubel. In 2025 I took part in TopMinds, a mentoring programme run by the Polish–American Fulbright Commission and Top 500 Innovators."
   },
   {
     "objectID": "index.html#industry",
     "href": "index.html#industry",
     "title": "Kamil Gacek",
     "section": "Industry",
-    "text": "Industry\nFor the past five years I have worked in people analytics and HR data analysis in global engineering organisations, currently as HR Data Analyst Partner at Jacobs and previously at Aptiv, where I moved from an internship to a lead analyst role. The work covers workforce data modelling, reporting automation and the kind of analysis that has to survive contact with imperfect records and a deadline. Keeping one foot in practice makes me careful about what data can actually support, and it trains the harder half of any quantitative project: explaining a result to people who will act on it but do not read econometrics. The two tracks turn out to ask the same question — what changes if this goes wrong — on different scales. I am open to consulting and collaboration on quantitative projects. More on my industry work."
+    "text": "Industry\nFor the past five years I have worked in people analytics in global engineering organisations — currently as HR Data Analyst Partner at Jacobs, and before that at Aptiv, where I moved from an internship to a lead analyst role. In both cases the work sits in a global team supporting the whole organisation on HR analytics: ad hoc questions, individual reports and studies, modelling and day-to-day support for the business, alongside long-running analytical projects that I take through every stage, from the business context and the requirements to building, testing and maintaining what comes out of them. You can read more about my industry work here."
   },
   {
     "objectID": "index.html#elsewhere",
@@ -306,7 +299,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "My research bridges environmental economics and applied mathematical modelling to assess the macroeconomic consequences of droughts and other physical disruptions in the Polish economy. Input–Output frameworks let me examine direct and indirect sectoral water dependencies and understand how a shortage in one place turns into a cascading economic shock somewhere else. I work with environmentally extended Input–Output models, structural decomposition and path analysis, backward and forward linkages, and Dynamic Inoperability Input–Output Models.\n\n\nPublications\n\nPeer-reviewed articles on water and waste in the Polish economy, each with an abstract, keywords and a DOI.\n\n\n\nTalks & Visits\n\nConference presentations, workshops, summer schools and research visits, with a map of where they took place.\n\n\n\nTeaching\n\nCourses in mathematics and quantitative methods that I teach at the Faculty of Management, AGH University of Krakow.\n\n\n\nGrants\n\nFunded projects in which I am the principal investigator, and research projects I have worked on.\n\n\n\nOther\n\nScholarships and awards, professional memberships, and service on academic councils.",
+    "text": "Input–Output models describe an economy as a web of mutual supplies: every sector’s output is another sector’s input, so a change in one place is never confined to it. I work with the environmentally extended version of that framework, in which a physical quantity — water above all — travels alongside the monetary flows. That makes it possible to ask how much of a resource an activity uses directly and how much it draws through everything it buys, to decompose a change in resource use into the forces behind it, and to follow a disruption as it spreads through the structure of production. The computation is done in R, on national supply-and-use and Input–Output tables combined with environmental accounts. The reason for working this way is that the damage from a physical shortage is mostly indirect, and indirect damage tends to go uncounted: it is assessed once the season is over, sector by sector, and whatever cannot be traced drops out of the total. A model of the dependencies makes that part visible in advance. The longer-term aim is a usable tool: a model in which a disruption can be simulated and mitigation strategies compared before a drought, rather than accounted for after one.\n\n\nPublications\n\nPeer-reviewed articles on water and waste in the Polish economy, each with an abstract, keywords and a DOI.\n\n\n\nTalks & Visits\n\nConference presentations, workshops, summer schools and research visits, with a map of where they took place.\n\n\n\nTeaching\n\nCourses in mathematics and quantitative methods that I teach at the Faculty of Management, AGH University of Krakow.\n\n\n\nGrants\n\nFunded projects in which I am the principal investigator, and research projects I have worked on.\n\n\n\nOther\n\nScholarships and awards, professional memberships, and service on academic councils.",
     "crumbs": [
       "Overview"
     ]

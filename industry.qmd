@@ -5,18 +5,16 @@ description-meta: "Five years in people analytics and HR data analysis at Jacobs
 page-layout: article
 ---
 
-Parallel to my academic work I have spent five years in people analytics and HR data
-analysis in global engineering organisations. The two tracks feed each other: modelling
-teaches me to be careful about what the numbers can support, and analytics practice keeps me
-close to imperfect data, stakeholders on a deadline, and results that have to be explained to
-people who do not read econometrics.
-
-<!-- ══════════════════════════════════════════════════════════════════
-     UZUPEŁNIJ: pod każdą rolą dodaj 2–4 punkty o tym, co realnie
-     robiłeś (zakres, narzędzia, skala, efekt). CV podaje tylko nazwy
-     stanowisk, więc te punkty są do napisania przez Ciebie.
-     Uwaga: nie podawaj danych poufnych pracodawcy.
-     ══════════════════════════════════════════════════════════════════ -->
+For the past five years I have worked in people analytics in global engineering organisations —
+first at Aptiv, and since 2025 at Jacobs — in both cases within global teams supporting the whole
+organisation on HR analytics. The work covers ad hoc questions, individual reports and studies,
+modelling and day-to-day support for the business, and equally the long-running analytical
+projects — reporting environments built in Power BI, R and whatever else the problem calls for. On
+those I am involved at every stage: understanding the business context, gathering requirements,
+scoping the work and identifying its risks, advising on how the problem is best approached, then
+building the solution, testing and validating it, and maintaining it once it is in use. What I aim
+for in all of it is to be a partner to the business rather than a supplier of numbers — the person
+a stakeholder brings a problem to, not a specification.
 
 ## Experience
 
@@ -31,9 +29,6 @@ HR Data Analyst Partner
 ::: {.entry-org}
 Jacobs
 :::
-
-- <!-- TODO --> Zakres odpowiedzialności — do uzupełnienia.
-- <!-- TODO --> Kluczowy projekt lub wynik — do uzupełnienia.
 :::
 :::
 
@@ -49,7 +44,8 @@ People Analytics Lead Analyst
 Aptiv
 :::
 
-- <!-- TODO --> Zakres odpowiedzialności — do uzupełnienia.
+- Ownership of whole analytical areas rather than individual requests.
+- Retention, compensation and workforce planning analyses for a global employee population.
 :::
 :::
 
@@ -65,7 +61,11 @@ HR Data Analyst
 Aptiv
 :::
 
-- <!-- TODO --> Zakres odpowiedzialności — do uzupełnienia.
+- Built and maintained the reporting and dashboard layer used across regions.
+- Turnover and retention analysis, including cohort tracking, alongside analyses of compensation,
+  employment costs and talent acquisition data.
+- Data modelling and harmonisation of sources across HR systems, with Workday as the main system
+  of record.
 :::
 :::
 
@@ -80,24 +80,20 @@ Intern, People Analytics Team
 ::: {.entry-org}
 Aptiv
 :::
+
+- First contact with HR data at scale, supporting the team's reporting work.
 :::
 :::
 
 ## Tools
 
-<!-- TODO: dopasuj listę do tego, czego faktycznie używasz na co dzień. -->
-
 ::: {.tags}
-- R
-- SQL
 - Power BI
+- R
 - Excel
-- Data Modelling
-- Reporting Automation
+- Power Query
+- VBA
+- Workday
+- Claude AI
+- Microsoft Copilot
 :::
-
-## Working together
-
-I am open to consulting and collaboration on quantitative projects — workforce analytics,
-economic impact assessment and Input–Output based scenario modelling.
-[Get in touch](contact.qmd).
