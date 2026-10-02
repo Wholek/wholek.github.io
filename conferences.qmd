@@ -7,9 +7,26 @@ page-layout: article
 
 ## Conference Presentations
 
+### 2026 {.year-head}
+
 ::: {.entry}
 ::: {.entry-date}
-Sep-2026
+Dec
+:::
+::: {.entry-body}
+::: {.entry-title}
+Assessing Systemic Drought Risk in Poland: Integrating Nature Value-at-Risk with Dynamic Inoperability Input-Output Modeling [upcoming]{.pub-status}
+:::
+::: {.entry-org}
+2026 SRA Annual Meeting, Society for Risk Analysis · oral presentation
+:::
+[[🇺🇸]{.flag} Atlanta, United States]{.entry-loc}
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+Sep
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -24,7 +41,7 @@ Drought as a Systemic Risk: From Water Shortage to Lost Output and Economy-Wide 
 
 ::: {.entry}
 ::: {.entry-date}
-Jul-2026
+Jul
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -39,7 +56,7 @@ Decomposing Water Demand Dynamics: A Structural Decomposition Analysis of the Po
 
 ::: {.entry}
 ::: {.entry-date}
-Apr-2026
+Apr
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -52,9 +69,11 @@ Mapping Water Dependencies via IO Linkages: Identifying Key Sectors in Poland's 
 :::
 :::
 
+### 2025 {.year-head}
+
 ::: {.entry}
 ::: {.entry-date}
-Dec-2025
+Dec
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -69,7 +88,7 @@ Seeing the Invisible Water: Direct vs. Indirect Use in Poland's Economy (EEIO 20
 
 ::: {.entry}
 ::: {.entry-date}
-Jun-2025
+Jun
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -84,7 +103,7 @@ International Conference on Economics, Finance & Business · oral presentation
 
 ::: {.entry}
 ::: {.entry-date}
-Mar-2025
+Mar
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -97,9 +116,11 @@ Drought in Europe in the Era of Global Warming: Conclusions from the PESETA IV R
 :::
 :::
 
+### 2023 {.year-head}
+
 ::: {.entry}
 ::: {.entry-date}
-2023
+&nbsp;
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -112,11 +133,14 @@ EKO DOK Conference · oral presentation
 :::
 :::
 
+
 ## Workshops
+
+### 2025 {.year-head}
 
 ::: {.entry}
 ::: {.entry-date}
-2025
+&nbsp;
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -129,11 +153,14 @@ Building Resilient Economies: The Role of Inoperability Input-Output Modelling i
 :::
 :::
 
+
 ## Summer Schools
+
+### 2026 {.year-head}
 
 ::: {.entry}
 ::: {.entry-date}
-Jun-2026
+Jun
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -143,9 +170,11 @@ The New Global Economic Order
 :::
 :::
 
+### 2025 {.year-head}
+
 ::: {.entry}
 ::: {.entry-date}
-Sep-2025
+Sep
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -155,9 +184,11 @@ HydRoData: Summer School on Hydrology and Data
 :::
 :::
 
+### 2024 {.year-head}
+
 ::: {.entry}
 ::: {.entry-date}
-Jun-2024
+Jun
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -167,9 +198,11 @@ The World Economy's Shifting Winds: New Challenges, Threats, and Opportunities
 :::
 :::
 
+### 2023 {.year-head}
+
 ::: {.entry}
 ::: {.entry-date}
-2023
+&nbsp;
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -179,11 +212,14 @@ Summer School for Young Economists from the Three Seas Region
 :::
 :::
 
+
 ## Research Visits
+
+### 2026 {.year-head}
 
 ::: {.entry}
 ::: {.entry-date}
-10/2026
+Oct
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -198,7 +234,7 @@ University of Waterloo [upcoming]{.pub-status}
 
 ::: {.entry}
 ::: {.entry-date}
-08-09/2026
+Aug-Sep
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -213,7 +249,7 @@ Umeå University
 
 ::: {.entry}
 ::: {.entry-date}
-02/2026
+Feb
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -225,6 +261,7 @@ George Washington University
 [[🇺🇸]{.flag} Washington, D.C., United States]{.entry-loc}
 :::
 :::
+
 
 ## Where I Have Been
 
@@ -242,6 +279,8 @@ George Washington University
 <script>
 (function () {
   const stops = [
+    {lat: 33.7590, lon: -84.3933, place: "Atlanta, United States", type: "talk",
+     events: ["2026 - 2026 SRA Annual Meeting, Society for Risk Analysis (upcoming)"]},
     {lat: 52.3753, lon: 20.9356, place: "Jabłonna, Poland", type: "talk",
      events: ["2026 - 9th Kuźnia Młodych Talentów, Polish Young Academy"]},
     {lat: 60.1699, lon: 24.9384, place: "Helsinki, Finland", type: "talk",
