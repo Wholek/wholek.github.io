@@ -9,7 +9,7 @@ page-layout: article
 
 ::: {.entry}
 ::: {.entry-date}
-2026
+Sep-2026
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -24,7 +24,7 @@ Drought as a Systemic Risk: From Water Shortage to Lost Output and Economy-Wide 
 
 ::: {.entry}
 ::: {.entry-date}
-2026
+Jul-2026
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -39,7 +39,7 @@ Decomposing Water Demand Dynamics: A Structural Decomposition Analysis of the Po
 
 ::: {.entry}
 ::: {.entry-date}
-2026
+Apr-2026
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -54,7 +54,7 @@ Mapping Water Dependencies via IO Linkages: Identifying Key Sectors in Poland's 
 
 ::: {.entry}
 ::: {.entry-date}
-2025
+Dec-2025
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -69,7 +69,7 @@ Seeing the Invisible Water: Direct vs. Indirect Use in Poland's Economy (EEIO 20
 
 ::: {.entry}
 ::: {.entry-date}
-2025
+Jun-2025
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -84,7 +84,7 @@ International Conference on Economics, Finance & Business · oral presentation
 
 ::: {.entry}
 ::: {.entry-date}
-2025
+Mar-2025
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -133,7 +133,7 @@ Building Resilient Economies: The Role of Inoperability Input-Output Modelling i
 
 ::: {.entry}
 ::: {.entry-date}
-2026
+Jun-2026
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -145,7 +145,7 @@ The New Global Economic Order
 
 ::: {.entry}
 ::: {.entry-date}
-2025
+Sep-2025
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -157,7 +157,7 @@ HydRoData: Summer School on Hydrology and Data
 
 ::: {.entry}
 ::: {.entry-date}
-2024
+Jun-2024
 :::
 ::: {.entry-body}
 ::: {.entry-title}
