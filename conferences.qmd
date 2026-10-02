@@ -11,7 +11,7 @@ page-layout: article
 
 ::: {.entry}
 ::: {.entry-date}
-Dec
+December
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -26,7 +26,7 @@ Assessing Systemic Drought Risk in Poland: Integrating Nature Value-at-Risk with
 
 ::: {.entry}
 ::: {.entry-date}
-Sep
+September
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -41,7 +41,7 @@ Drought as a Systemic Risk: From Water Shortage to Lost Output and Economy-Wide 
 
 ::: {.entry}
 ::: {.entry-date}
-Jul
+July
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -56,7 +56,7 @@ Decomposing Water Demand Dynamics: A Structural Decomposition Analysis of the Po
 
 ::: {.entry}
 ::: {.entry-date}
-Apr
+April
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -73,7 +73,7 @@ Mapping Water Dependencies via IO Linkages: Identifying Key Sectors in Poland's 
 
 ::: {.entry}
 ::: {.entry-date}
-Dec
+December
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -88,7 +88,7 @@ Seeing the Invisible Water: Direct vs. Indirect Use in Poland's Economy (EEIO 20
 
 ::: {.entry}
 ::: {.entry-date}
-Jun
+June
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -103,7 +103,7 @@ International Conference on Economics, Finance & Business · oral presentation
 
 ::: {.entry}
 ::: {.entry-date}
-Mar
+March
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -160,7 +160,7 @@ Building Resilient Economies: The Role of Inoperability Input-Output Modelling i
 
 ::: {.entry}
 ::: {.entry-date}
-Jun
+June
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -174,7 +174,7 @@ The New Global Economic Order
 
 ::: {.entry}
 ::: {.entry-date}
-Sep
+September
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -188,7 +188,7 @@ HydRoData: Summer School on Hydrology and Data
 
 ::: {.entry}
 ::: {.entry-date}
-Jun
+June
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -202,7 +202,7 @@ The World Economy's Shifting Winds: New Challenges, Threats, and Opportunities
 
 ::: {.entry}
 ::: {.entry-date}
-&nbsp;
+August
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -219,7 +219,7 @@ Summer School for Young Economists from the Three Seas Region
 
 ::: {.entry}
 ::: {.entry-date}
-Oct
+October
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -234,7 +234,7 @@ University of Waterloo [upcoming]{.pub-status}
 
 ::: {.entry}
 ::: {.entry-date}
-Aug-Sep
+August-September
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -249,7 +249,7 @@ Umeå University
 
 ::: {.entry}
 ::: {.entry-date}
-Feb
+February
 :::
 ::: {.entry-body}
 ::: {.entry-title}
