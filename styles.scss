@@ -922,6 +922,16 @@ main.content ul li { margin-bottom: .3rem; }
   }
 }
 
+// Talks & Visits: tytuły wystąpień wyjustowane (z dzieleniem wyrazów, żeby
+// nie robiły się dziury). Na telefonach zostają do lewej, patrz niżej.
+@media (min-width: 768px) {
+  main.content .talks-page .entry-title p,
+  .talks-page main.content .entry-title p {
+    text-align: justify;
+    hyphens: auto;
+  }
+}
+
 // ═══ WERSJA MOBILNA (poniżej 992 px, czyli gdy belka zwija się do hamburgera) ═══
 // Wszystko niżej działa tylko na telefonach i tabletach - układ komputerowy
 // (od 992 px) pozostaje bez zmian.
