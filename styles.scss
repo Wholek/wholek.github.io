@@ -785,7 +785,7 @@ details.abstract summary::before {
   line-height: 1;
 }
 
-details.abstract[open] summary::before { content: "–"; }
+details.abstract[open] summary::before { content: "-"; }
 
 details.abstract .abstract-body {
   margin-top: .6rem;
@@ -923,7 +923,7 @@ main.content ul li { margin-bottom: .3rem; }
 }
 
 // ═══ WERSJA MOBILNA (poniżej 992 px, czyli gdy belka zwija się do hamburgera) ═══
-// Wszystko niżej działa tylko na telefonach i tabletach — układ komputerowy
+// Wszystko niżej działa tylko na telefonach i tabletach - układ komputerowy
 // (od 992 px) pozostaje bez zmian.
 @media (max-width: 991.98px) {
   // Nazwa w belce: na komputerze jej miejsce zostaje puste, ale na telefonie
