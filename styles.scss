@@ -88,6 +88,11 @@ $grid-column-gutter-width: .95rem !default;
 }
 
 // ═══ UKŁAD STRONY ══════════════════════════════════════════════════
+// Zawsze rezerwuj miejsce na pasek przewijania. Bez tego krótkie strony
+// (Research, Contact) nie mają paska, a długie (About, Industry) mają,
+// więc wyśrodkowana treść skacze o połowę jego szerokości (~7 px).
+html { scrollbar-gutter: stable; }
+
 main.content {
   max-width: var(--kg-text);
   margin-inline: auto;
