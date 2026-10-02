@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-pagetitle: "Teaching — Kamil Gacek"
+pagetitle: "Teaching - Kamil Gacek"
 description-meta: "Courses taught at the Faculty of Management, AGH University of Krakow."
 page-layout: article
 ---
@@ -56,6 +56,6 @@ Faculty of Management, AGH University of Krakow
 
 ## For students
 
-I am happy to co-supervise theses that use Input–Output methods, environmental accounting or
+I am happy to co-supervise theses that use Input-Output methods, environmental accounting or
 applied statistics. If you have an idea in that area, or would simply like to talk
 through the possibilities, let me know.

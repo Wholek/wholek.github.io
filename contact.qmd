@@ -1,11 +1,11 @@
 ---
 title: "Contact"
-pagetitle: "Contact — Kamil Gacek"
+pagetitle: "Contact - Kamil Gacek"
 description-meta: "How to reach Kamil Gacek at AGH University of Krakow."
 page-layout: article
 ---
 
-The fastest way to reach me is by e-mail, and I am always happy to hear from you — whether you
+The fastest way to reach me is by e-mail, and I am always happy to hear from you - whether you
 would like to talk about joint projects and collaboration, a research visit, or simply have a
 question.
 
