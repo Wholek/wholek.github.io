@@ -16,7 +16,7 @@ page-layout: article
 Drought as a Systemic Risk: From Water Shortage to Lost Output and Economy-Wide Losses
 :::
 ::: {.entry-org}
-Kuźnia Młodych Talentów · oral presentation
+9th Kuźnia Młodych Talentów, Summer School of the Polish Young Academy (Polish Academy of Sciences) · oral presentation
 :::
 [[🇵🇱]{.flag} Jabłonna, Poland]{.entry-loc}
 :::
@@ -243,7 +243,7 @@ George Washington University
 (function () {
   const stops = [
     {lat: 52.3753, lon: 20.9356, place: "Jabłonna, Poland", type: "talk",
-     events: ["2026 - Kuźnia Młodych Talentów"]},
+     events: ["2026 - 9th Kuźnia Młodych Talentów, Polish Young Academy"]},
     {lat: 60.1699, lon: 24.9384, place: "Helsinki, Finland", type: "talk",
      events: ["2026 - 16th Int. Conference on New Ideas in Management, Economics and Accounting"]},
     {lat: 37.9838, lon: 23.7275, place: "Athens, Greece", type: "talk",
