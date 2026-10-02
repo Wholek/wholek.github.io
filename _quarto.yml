@@ -1,8 +1,13 @@
 project:
   type: website
   output-dir: docs          # katalog, który publikujesz (GitHub Pages / Netlify)
+  # CV wyłączone z publikacji. Żeby przywrócić: usuń linię z "!cv.qmd" poniżej,
+  # odkomentuj "- files/" w resources i odkomentuj link w index.qmd.
+  render:
+    - "*.qmd"
+    - "!cv.qmd"
   resources:
-    - files/                # PDF-y i inne pliki do pobrania
+    # - files/              # PDF-y i inne pliki do pobrania (obecnie tylko CV)
     - .nojekyll             # wyłącza przetwarzanie Jekyllem na GitHub Pages
     - CNAME                 # własna domena - bez tego pliku GitHub ją gubi
 

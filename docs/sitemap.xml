@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://kgacek.com/teaching.html</loc>
+    <lastmod>2026-10-02T10:26:48.564Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kgacek.com/publications.html</loc>
+    <lastmod>2026-10-02T10:26:48.564Z</lastmod>
+  </url>
+  <url>
     <loc>https://kgacek.com/industry.html</loc>
     <lastmod>2026-10-02T10:26:48.565Z</lastmod>
   </url>
   <url>
-    <loc>https://kgacek.com/index.html</loc>
+    <loc>https://kgacek.com/grants.html</loc>
+    <lastmod>2026-10-02T10:26:48.564Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kgacek.com/conferences.html</loc>
+    <lastmod>2026-10-02T10:43:51.292Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kgacek.com/contact.html</loc>
     <lastmod>2026-10-02T10:26:48.565Z</lastmod>
   </url>
   <url>
-    <loc>https://kgacek.com/teaching.html</loc>
-    <lastmod>2026-10-02T10:26:48.564Z</lastmod>
+    <loc>https://kgacek.com/index.html</loc>
+    <lastmod>2026-10-02T10:59:46.858Z</lastmod>
   </url>
   <url>
     <loc>https://kgacek.com/other.html</loc>
@@ -19,25 +35,5 @@
   <url>
     <loc>https://kgacek.com/research.html</loc>
     <lastmod>2026-10-02T10:26:48.563Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kgacek.com/cv.html</loc>
-    <lastmod>2026-10-02T10:26:48.563Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kgacek.com/conferences.html</loc>
-    <lastmod>2026-10-02T10:43:51.292Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kgacek.com/grants.html</loc>
-    <lastmod>2026-10-02T10:26:48.564Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kgacek.com/publications.html</loc>
-    <lastmod>2026-10-02T10:26:48.564Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kgacek.com/contact.html</loc>
-    <lastmod>2026-10-02T10:26:48.565Z</lastmod>
   </url>
 </urlset>
