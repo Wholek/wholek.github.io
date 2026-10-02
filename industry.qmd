@@ -1,26 +1,26 @@
 ---
 title: "Industry experience"
-pagetitle: "Industry experience — Kamil Gacek"
+pagetitle: "Industry experience - Kamil Gacek"
 description-meta: "Five years in people analytics and HR data analysis at Jacobs and Aptiv."
 page-layout: article
 ---
 
-For the past five years I have worked in people analytics in global engineering organisations —
-first at Aptiv, and since 2025 at Jacobs — in both cases within global teams supporting the whole
+For the past five years I have worked in people analytics in global engineering organisations -
+first at Aptiv, and since 2025 at Jacobs - in both cases within global teams supporting the whole
 organisation on HR analytics. The work covers ad hoc questions, individual reports and studies,
 modelling and day-to-day support for the business, and equally the long-running analytical
-projects — reporting environments built in Power BI, R and whatever else the problem calls for. On
+projects - reporting environments built in Power BI, R and whatever else the problem calls for. On
 those I am involved at every stage: understanding the business context, gathering requirements,
 scoping the work and identifying its risks, advising on how the problem is best approached, then
 building the solution, testing and validating it, and maintaining it once it is in use. What I aim
-for in all of it is to be a partner to the business rather than a supplier of numbers — the person
+for in all of it is to be a partner to the business rather than a supplier of numbers - the person
 a stakeholder brings a problem to, not a specification.
 
 ## Experience
 
 ::: {.entry}
 ::: {.entry-date}
-08/2025 – present
+08/2025 - present
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -34,7 +34,7 @@ Jacobs
 
 ::: {.entry}
 ::: {.entry-date}
-04/2025 – 07/2025
+04/2025 - 07/2025
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -51,7 +51,7 @@ Aptiv
 
 ::: {.entry}
 ::: {.entry-date}
-06/2022 – 03/2025
+06/2022 - 03/2025
 :::
 ::: {.entry-body}
 ::: {.entry-title}
@@ -71,7 +71,7 @@ Aptiv
 
 ::: {.entry}
 ::: {.entry-date}
-06/2021 – 05/2022
+06/2021 - 05/2022
 :::
 ::: {.entry-body}
 ::: {.entry-title}

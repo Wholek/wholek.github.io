@@ -4,11 +4,11 @@ project:
   resources:
     - files/                # PDF-y i inne pliki do pobrania
     - .nojekyll             # wyłącza przetwarzanie Jekyllem na GitHub Pages
-    - CNAME                 # własna domena — bez tego pliku GitHub ją gubi
+    - CNAME                 # własna domena - bez tego pliku GitHub ją gubi
 
 website:
   title: "Kamil Gacek"
-  description: "Kamil Gacek — PhD candidate in Economics and Finance, AGH University of Krakow. Input-Output modelling, water footprint and disaster impact assessment."
+  description: "Kamil Gacek - PhD candidate in Economics and Finance, AGH University of Krakow. Input-Output modelling, water footprint and disaster impact assessment."
   site-url: "https://kgacek.com"
   favicon: images/favicon.png
   search: false
@@ -60,6 +60,7 @@ website:
 
 format:
   html:
+    title-prefix: ""      # tytuły stron zawierają już nazwę serwisu; bez tego Quarto dokleja ją drugi raz przez półpauzę
     theme:
       - cosmo
       - styles.scss

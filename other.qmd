@@ -1,6 +1,6 @@
 ---
 title: "Other activities"
-pagetitle: "Other activities — Kamil Gacek"
+pagetitle: "Other activities - Kamil Gacek"
 description-meta: "Scholarships, memberships, academic service and peer review."
 page-layout: article
 ---
@@ -16,9 +16,9 @@ page-layout: article
 TopMinds 2025 Program Participant
 :::
 ::: {.entry-org}
-Polish–American Fulbright Commission and Top 500 Innovators
+Polish-American Fulbright Commission and Top 500 Innovators
 :::
-Selected for the mentoring programme run jointly by the Polish–American Fulbright Commission and
+Selected for the mentoring programme run jointly by the Polish-American Fulbright Commission and
 the Top 500 Innovators association.
 :::
 :::
@@ -84,7 +84,7 @@ since 12/2023
 :::
 ::: {.entry-body}
 ::: {.entry-title}
-International Input–Output Association
+International Input-Output Association
 :::
 :::
 :::
@@ -107,11 +107,11 @@ Ad-hoc reviewer
 
 ::: {.entry}
 ::: {.entry-date}
-2024 – 2026
+2024 - 2026
 :::
 ::: {.entry-body}
 ::: {.entry-title}
-National Doctoral Council — Projects Team
+National Doctoral Council - Projects Team
 :::
 :::
 :::
