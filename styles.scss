@@ -923,13 +923,10 @@ main.content ul li { margin-bottom: .3rem; }
 }
 
 // Talks & Visits: tytuły wystąpień wyjustowane (z dzieleniem wyrazów, żeby
-// nie robiły się dziury). Na telefonach zostają do lewej, patrz niżej.
-@media (min-width: 768px) {
-  main.content .talks-page .entry-title p,
-  .talks-page main.content .entry-title p {
-    text-align: justify;
-    hyphens: auto;
-  }
+// nie robiły się dziury), tak samo na komputerze i na telefonie.
+.talks-page main.content .entry-title p {
+  text-align: justify;
+  hyphens: auto;
 }
 
 // ═══ WERSJA MOBILNA (poniżej 992 px, czyli gdy belka zwija się do hamburgera) ═══
@@ -996,13 +993,6 @@ main.content ul li { margin-bottom: .3rem; }
   main.content .entry-title,
   main.content .entry-org,
   main.content .tags li { overflow-wrap: anywhere; }
-}
-
-// Na telefonach tekst ciągły wyrównany do lewej: w wąskiej kolumnie
-// justowanie robi duże dziury między słowami.
-@media (max-width: 767.98px) {
-  main.content p,
-  main.content li { text-align: left; }
 }
 
 @media (prefers-reduced-motion: reduce) {
