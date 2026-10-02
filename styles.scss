@@ -920,6 +920,14 @@ main.content ul li { margin-bottom: .3rem; }
     min-width: 0;
     margin-bottom: .1rem;
   }
+
+  // Linki z ikoną (Elsewhere na stronie głównej): napis zostaje obok ikony,
+  // po jej prawej stronie, tak jak na komputerze.
+  main.content .linklist a .linklist-label {
+    display: inline-block;
+    min-width: 138px;
+    margin-bottom: 0;
+  }
 }
 
 // Talks & Visits: tytuły wystąpień wyjustowane (z dzieleniem wyrazów, żeby
