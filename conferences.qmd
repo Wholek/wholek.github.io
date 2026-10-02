@@ -13,10 +13,10 @@ page-layout: article
 :::
 ::: {.entry-body}
 ::: {.entry-title}
-Kuźnia Młodych Talentów
+Drought as a Systemic Risk: From Water Shortage to Lost Output and Economy-Wide Losses
 :::
 ::: {.entry-org}
-11-13 September 2026
+Kuźnia Młodych Talentów · oral presentation
 :::
 [[🇵🇱]{.flag} Jabłonna, Poland]{.entry-loc}
 :::
