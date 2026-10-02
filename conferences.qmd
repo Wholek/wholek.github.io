@@ -13,6 +13,21 @@ page-layout: article
 :::
 ::: {.entry-body}
 ::: {.entry-title}
+Kuźnia Młodych Talentów
+:::
+::: {.entry-org}
+11–13 September 2026
+:::
+[[🇵🇱]{.flag} Jabłonna, Poland]{.entry-loc}
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2026
+:::
+::: {.entry-body}
+::: {.entry-title}
 Decomposing Water Demand Dynamics: A Structural Decomposition Analysis of the Polish Economy (2010–2020)
 :::
 ::: {.entry-org}
@@ -227,6 +242,8 @@ George Washington University
 <script>
 (function () {
   const stops = [
+    {lat: 52.3753, lon: 20.9356, place: "Jabłonna, Poland", type: "talk",
+     events: ["2026 — Kuźnia Młodych Talentów"]},
     {lat: 60.1699, lon: 24.9384, place: "Helsinki, Finland", type: "talk",
      events: ["2026 — 16th Int. Conference on New Ideas in Management, Economics and Accounting"]},
     {lat: 37.9838, lon: 23.7275, place: "Athens, Greece", type: "talk",
