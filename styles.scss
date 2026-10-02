@@ -673,6 +673,19 @@ main.content .maplegend p { margin: 0; }
   letter-spacing: -.01em;
 }
 
+// Nagłówek roku nad grupą wpisów (Talks & Visits). W grupie wpisy mają
+// w kolumnie daty już tylko miesiąc.
+main.content section.year-head > h3 {
+  font-family: var(--kg-sans);
+  font-size: .8rem;
+  font-weight: 600;
+  letter-spacing: .1em;
+  color: var(--kg-ink-soft);
+  margin: 1.5rem 0 .8rem;
+}
+
+main.content section.year-head:first-of-type > h3 { margin-top: .4rem; }
+
 .entry-title {
   font-weight: 600;
   font-size: 1rem;
