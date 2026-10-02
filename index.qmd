@@ -88,5 +88,9 @@ maintaining what comes out of them. You can read more about my industry work [he
 - [[]{.ai .ai-google-scholar .profile-icon}[Google Scholar]{.linklist-label}](https://scholar.google.com/citations?user=Bo11EggAAAAJ&hl=pl)
 - [[]{.ai .ai-researchgate .profile-icon}[Research Gate]{.linklist-label}](https://www.researchgate.net/profile/Kamil-Gacek-2)
 - [[]{.ai .ai-orcid .profile-icon}[ORCID]{.linklist-label}](https://orcid.org/0009-0002-0235-3232)
+:::
+
+::: {.content-hidden when-format="html"}
+<!-- CV wyłączone z wyświetlania. Żeby przywrócić, usuń ten blok i dodaj poniższą linię na końcu listy wyżej (zobacz też _quarto.yml). -->
 - [[]{.ai .ai-cv .profile-icon}[Curriculum vitae]{.linklist-label}](files/CV_Kamil_Gacek.pdf)
 :::
