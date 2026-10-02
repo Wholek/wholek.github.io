@@ -92,6 +92,7 @@ Aptiv
 - R
 - Excel
 - Power Query
+- DAX
 - VBA
 - Workday
 - Claude AI
