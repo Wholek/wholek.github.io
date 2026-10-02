@@ -137,6 +137,23 @@ main.content {
   #quarto-sidebar-glass { display: none; }
 }
 
+// Na tabletach (768–991 px) Quarto liczy marginesy strony z listą podstron
+// (Research i jego podstrony) inaczej niż pozostałych — tekst stoi wtedy
+// kilka pikseli dalej w prawo. Tu wyrównujemy je do siatki zwykłych stron.
+@media (min-width: 768px) and (max-width: 991.98px) {
+  body.floating #quarto-content.page-columns {
+    grid-template-columns:
+      [screen-start] .95rem
+      [screen-start-inset page-start page-start-inset body-start-outset] 5fr
+      [body-start] .95rem
+      [body-content-start] minmax(500px, calc(780px - 1.9rem))
+      [body-content-end] .95rem
+      [body-end body-end-outset page-end-inset page-end] 5fr
+      [screen-end-inset] .95rem
+      [screen-end];
+  }
+}
+
 // Tło i dolna kreska belki biegną przez całą szerokość okna, ale jej
 // zawartość mieści się w tym samym bloku co treść. Dzięki temu nazwa
 // po lewej stoi nad lewą krawędzią bloku, a Contact po prawej kończy
