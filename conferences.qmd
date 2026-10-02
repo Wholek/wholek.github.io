@@ -3,6 +3,7 @@ title: "Talks and Visits"
 pagetitle: "Talks and Visits - Kamil Gacek"
 description-meta: "Conference presentations, workshops, summer schools and research visits."
 page-layout: article
+body-classes: talks-page
 ---
 
 ## Conference Presentations
