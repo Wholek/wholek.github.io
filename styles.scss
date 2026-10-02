@@ -922,6 +922,79 @@ main.content ul li { margin-bottom: .3rem; }
   }
 }
 
+// ═══ WERSJA MOBILNA (poniżej 992 px, czyli gdy belka zwija się do hamburgera) ═══
+// Wszystko niżej działa tylko na telefonach i tabletach — układ komputerowy
+// (od 992 px) pozostaje bez zmian.
+@media (max-width: 991.98px) {
+  // Nazwa w belce: na komputerze jej miejsce zostaje puste, ale na telefonie
+  // sam hamburger nie mówi, czyja to strona.
+  .navbar .navbar-container { flex-wrap: wrap; align-items: center; }
+
+  .navbar .navbar-container::before {
+    content: "Kamil Gacek";
+    order: 1;
+    flex: 1 1 auto;
+    margin-left: .9rem;
+    font-family: var(--kg-serif);
+    font-size: 1.08rem;
+    font-weight: 600;
+    color: var(--kg-ink);
+  }
+
+  .navbar .navbar-toggler { order: 0; }
+  .navbar .navbar-collapse { order: 2; }
+
+  // Przycisk hamburgera: minimum 44 px do trafienia palcem.
+  .navbar .navbar-toggler {
+    min-width: 44px;
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  // Pasek podstron Research: etykieta mówi, do czego służy, plus strzałka.
+  .quarto-secondary-nav .quarto-page-breadcrumbs .breadcrumb {
+    align-items: center;
+    margin: 0;
+  }
+
+  .quarto-secondary-nav .quarto-page-breadcrumbs .breadcrumb-item {
+    display: flex;
+    align-items: center;
+  }
+
+  .quarto-secondary-nav .quarto-page-breadcrumbs .breadcrumb::before {
+    content: "Research: ";
+    color: var(--kg-gold);
+    font-weight: 600;
+    margin-right: .3rem;
+  }
+
+  .quarto-secondary-nav .quarto-page-breadcrumbs .breadcrumb::after {
+    content: "\25BE";
+    color: var(--kg-gold);
+    margin-left: .55rem;
+  }
+
+  // Panel boczny: odstęp od lewej krawędzi panelu.
+  #quarto-sidebar .sidebar-menu-container { padding-left: 1.3rem; }
+
+  // Długie słowa i adresy DOI nie mogą rozpychać strony.
+  main.content .pub-title,
+  main.content .pub-meta,
+  main.content .entry-title,
+  main.content .entry-org,
+  main.content .tags li { overflow-wrap: anywhere; }
+}
+
+// Na telefonach tekst ciągły wyrównany do lewej: w wąskiej kolumnie
+// justowanie robi duże dziury między słowami.
+@media (max-width: 767.98px) {
+  main.content p,
+  main.content li { text-align: left; }
+}
+
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }
 }
