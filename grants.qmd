@@ -49,7 +49,6 @@ POLPAN - Polish Panel Survey
 Research Assistant · Institute of Philosophy and Sociology, Polish Academy of Sciences
 :::
 Statistical analysis and data modelling on the longitudinal POLPAN dataset, and harmonisation of
-the 1988-2023 database. I also translated the 2023 edition of the questionnaire into English,
-comparing it with previous editions to keep it consistent with the earlier waves.
+the 1988-2023 database.
 :::
 :::
