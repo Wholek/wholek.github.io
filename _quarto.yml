@@ -14,7 +14,7 @@ project:
 website:
   title: "Kamil Gacek"
   description: "Kamil Gacek - PhD candidate in Economics and Finance, AGH University of Krakow. Input-Output modelling, water footprint and disaster impact assessment."
-  site-url: "https://kgacek.com"
+  site-url: "https://www.kgacek.com"
   favicon: images/favicon.png
   search: false
   navbar:
