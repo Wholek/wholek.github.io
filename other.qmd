@@ -13,13 +13,13 @@ page-layout: article
 :::
 ::: {.entry-body}
 ::: {.entry-title}
-Science-Up Mentoring Programme, 4th Edition (Research Advanced track)
+Science-Up Mentoring Programme
 :::
 ::: {.entry-org}
 Blisko Nauki
 :::
-Participant in the free mentoring programme for students and doctoral students with research
-experience, in the Research Advanced track.
+Participant in the mentoring programme for students and doctoral students with research
+experience: 4th edition, Research Advanced track.
 :::
 :::
 
