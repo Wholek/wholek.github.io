@@ -14,25 +14,11 @@ on the uses it is put to.
 
 ::: {.entry}
 ::: {.entry-date}
-since 2025
+since 2026
 :::
 ::: {.entry-body}
 ::: {.entry-title}
-Algebra and Differential Calculus
-:::
-::: {.entry-org}
-Faculty of Management, AGH University of Krakow
-:::
-:::
-:::
-
-::: {.entry}
-::: {.entry-date}
-since 2025
-:::
-::: {.entry-body}
-::: {.entry-title}
-Mathematics in Management
+Financial and Insurance Mathematics
 :::
 ::: {.entry-org}
 Faculty of Management, AGH University of Krakow
@@ -47,6 +33,34 @@ since 2025
 ::: {.entry-body}
 ::: {.entry-title}
 Spectral Analysis in Economics and Finance
+:::
+::: {.entry-org}
+Faculty of Management, AGH University of Krakow
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+Algebra and Differential Calculus
+:::
+::: {.entry-org}
+Faculty of Management, AGH University of Krakow
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+Mathematics in Management
 :::
 ::: {.entry-org}
 Faculty of Management, AGH University of Krakow
