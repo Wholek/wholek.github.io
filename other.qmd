@@ -9,6 +9,20 @@ page-layout: article
 
 ::: {.entry}
 ::: {.entry-date}
+2026 / 2027
+:::
+::: {.entry-body}
+::: {.entry-title}
+Two scholarships for the best PhD students
+:::
+::: {.entry-org}
+AGH University of Krakow
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
 2026
 :::
 ::: {.entry-body}
