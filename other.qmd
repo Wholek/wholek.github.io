@@ -9,6 +9,22 @@ page-layout: article
 
 ::: {.entry}
 ::: {.entry-date}
+2026
+:::
+::: {.entry-body}
+::: {.entry-title}
+Science-Up Mentoring Programme, 4th Edition (Research Advanced track)
+:::
+::: {.entry-org}
+Blisko Nauki
+:::
+Participant in the free mentoring programme for students and doctoral students with research
+experience, in the Research Advanced track.
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
 2025
 :::
 ::: {.entry-body}
