@@ -224,7 +224,7 @@ October
 :::
 ::: {.entry-body}
 ::: {.entry-title}
-University of Waterloo [upcoming]{.pub-status}
+University of Waterloo
 :::
 ::: {.entry-org}
 15-27 October 2026
