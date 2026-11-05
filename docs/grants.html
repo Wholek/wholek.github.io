@@ -284,8 +284,26 @@ ul.task-list li input[type="checkbox"] {
 // Kliknięcie w "Research" w belce przenosi na stronę Overview.
 // Rozwijana lista nadal otwiera się samym najechaniem.
 document.addEventListener('DOMContentLoaded', function () {
+  // Klucz strony: nazwa pliku bez .html ("/" i "/index.html" to "index").
+  function pageKey(path) {
+    var name = path.split('/').filter(Boolean).pop() || 'index';
+    return name.replace(/\.html$/, '');
+  }
+  var current = pageKey(window.location.pathname);
+
   document.querySelectorAll('.navbar .nav-item.dropdown > .dropdown-toggle')
     .forEach(function (toggle) {
+      // Quarto zaznacza tylko pozycję w rozwijanym menu, nie sam napis w
+      // belce - tu podświetlamy też "Research", gdy jesteśmy na dowolnej
+      // z jego podstron.
+      var menu = toggle.parentElement.querySelector('.dropdown-menu');
+      if (menu) {
+        var onSubpage = Array.prototype.some.call(
+          menu.querySelectorAll('a.dropdown-item'),
+          function (a) { return pageKey(new URL(a.href, window.location.href).pathname) === current; });
+        if (onSubpage) toggle.classList.add('active');
+      }
+
       if (toggle.textContent.trim().toLowerCase() !== 'research') return;
       toggle.addEventListener('click', function (event) {
         event.preventDefault();
