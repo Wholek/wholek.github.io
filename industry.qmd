@@ -101,100 +101,12 @@ Aptiv
 
 ## Certifications
 
-::: {.entry}
-::: {.entry-date}
-03/2025
-:::
-::: {.entry-body}
-::: {.entry-title}
-DAX - Language Concepts and Code Optimization in Power BI
-:::
-::: {.entry-org}
-Comarch
-:::
-:::
-:::
-
-::: {.entry}
-::: {.entry-date}
-10/2024
-:::
-::: {.entry-body}
-::: {.entry-title}
-Power Query, Power Pivot, Power BI
-:::
-::: {.entry-org}
-Excel\_lent work
-:::
-:::
-:::
-
-::: {.entry}
-::: {.entry-date}
-12/2023
-:::
-::: {.entry-body}
-::: {.entry-title}
-Efficient Outlook Handling
-:::
-::: {.entry-org}
-Excel\_lent work
-:::
-:::
-:::
-
-::: {.entry}
-::: {.entry-date}
-12/2022
-:::
-::: {.entry-body}
-::: {.entry-title}
-Power BI and DAX - analysis based on dates
-:::
-::: {.entry-org}
-Comarch
-:::
-:::
-:::
-
-::: {.entry}
-::: {.entry-date}
-12/2022
-:::
-::: {.entry-body}
-::: {.entry-title}
-DAX from scratch - calculations in the data model in Power BI, SSAS and the PowerPivot add-in for MS Excel
-:::
-::: {.entry-org}
-Comarch
-:::
-:::
-:::
-
-::: {.entry}
-::: {.entry-date}
-11/2022
-:::
-::: {.entry-body}
-::: {.entry-title}
-Data Analyst in Power BI
-:::
-::: {.entry-org}
-DataCamp
-:::
-:::
-:::
-
-::: {.entry}
-::: {.entry-date}
-09/2021
-:::
-::: {.entry-body}
-::: {.entry-title}
-Data Analysis with SAS
-:::
-::: {.entry-org}
-SAS
-:::
-:::
+::: {.certs}
+- [2025]{.cert-year} DAX - Language Concepts and Code Optimization in Power BI [· Comarch]{.cert-org}
+- [2024]{.cert-year} Power Query, Power Pivot, Power BI [· Excel\_lent work]{.cert-org}
+- [2023]{.cert-year} Efficient Outlook Handling [· Excel\_lent work]{.cert-org}
+- [2022]{.cert-year} Power BI and DAX - analysis based on dates [· Comarch]{.cert-org}
+- [&nbsp;]{.cert-year} DAX from scratch - calculations in the data model in Power BI, SSAS and the PowerPivot add-in for MS Excel [· Comarch]{.cert-org}
+- [&nbsp;]{.cert-year} Data Analyst in Power BI [· DataCamp]{.cert-org}
+- [2021]{.cert-year} Data Analysis with SAS [· SAS]{.cert-org}
 :::
