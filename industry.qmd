@@ -98,3 +98,103 @@ Aptiv
 - Claude AI
 - Microsoft Copilot
 :::
+
+## Certifications
+
+::: {.entry}
+::: {.entry-date}
+03/2025
+:::
+::: {.entry-body}
+::: {.entry-title}
+DAX - Language Concepts and Code Optimization in Power BI
+:::
+::: {.entry-org}
+Comarch
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+10/2024
+:::
+::: {.entry-body}
+::: {.entry-title}
+Power Query, Power Pivot, Power BI
+:::
+::: {.entry-org}
+Excel\_lent work
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+12/2023
+:::
+::: {.entry-body}
+::: {.entry-title}
+Efficient Outlook Handling
+:::
+::: {.entry-org}
+Excel\_lent work
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+12/2022
+:::
+::: {.entry-body}
+::: {.entry-title}
+Power BI and DAX - analysis based on dates
+:::
+::: {.entry-org}
+Comarch
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+12/2022
+:::
+::: {.entry-body}
+::: {.entry-title}
+DAX from scratch - calculations in the data model in Power BI, SSAS and the PowerPivot add-in for MS Excel
+:::
+::: {.entry-org}
+Comarch
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+11/2022
+:::
+::: {.entry-body}
+::: {.entry-title}
+Data Analyst in Power BI
+:::
+::: {.entry-org}
+DataCamp
+:::
+:::
+:::
+
+::: {.entry}
+::: {.entry-date}
+09/2021
+:::
+::: {.entry-body}
+::: {.entry-title}
+Data Analysis with SAS
+:::
+::: {.entry-org}
+SAS
+:::
+:::
+:::
