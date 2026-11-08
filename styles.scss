@@ -1017,6 +1017,7 @@ main.content ul li { margin-bottom: .3rem; }
   #quarto-sidebar { display: none !important; }
 
   .quarto-secondary-nav .kg-tabs {
+    position: relative;   // offsetLeft zakładek liczy się od paska
     display: flex;
     gap: .35rem;
     width: 100%;
