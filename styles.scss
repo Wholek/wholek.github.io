@@ -1060,6 +1060,12 @@ main.content ul li { margin-bottom: .3rem; }
     padding-left: 1.4rem;
     padding-right: 1.4rem;
   }
+
+  // Lista danych (Contact): na telefonie zostaje wyrównana do lewej.
+  main.content .linklist li {
+    text-align: left;
+    hyphens: manual;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
