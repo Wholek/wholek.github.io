@@ -1043,6 +1043,18 @@ main.content ul li { margin-bottom: .3rem; }
   main.content .tags li { overflow-wrap: anywhere; }
 }
 
+// Węższe marginesy na telefonach: dotąd tekst miał po ok. 55 px z każdej
+// strony (siatka Quarto + dwa razy 1.15rem), czyli zajmował tylko ok. 72%
+// szerokości. Zdejmujemy jedną warstwę odstępu i zostawiamy ok. 40 px.
+@media (max-width: 767.98px) {
+  #quarto-content { padding-left: 0; padding-right: 0; }
+
+  main.content {
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; }
 }
