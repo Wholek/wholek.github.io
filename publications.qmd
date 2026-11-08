@@ -43,6 +43,48 @@ drought in Poland, including the cumulative losses accumulated along the recover
 :::
 :::
 
+::: {.pub}
+[2026]{.pub-year}
+
+::: {.pub-title}
+The Structure of Poland's Water Footprint in 2010, 2015 and 2020: Structural Path Analysis of Sectoral Roles and Supply-Chain Depth
+:::
+
+::: {.pub-meta}
+Gacek, K. - *Water Resources and Industry* · IF 8.7 [under review]{.pub-status}
+:::
+
+<details class="abstract">
+<summary>Abstract</summary>
+<div class="abstract-body">
+<p>Water governance typically targets abstraction sites, yet most national water footprints are
+embodied in inter-industry supply. This study unpacks the freshwater withdrawal embodied in
+Poland's final demand in 2010, 2015 and 2020 using a 32-sector environmentally extended
+input-output model, structural path analysis, a tier-resolved decomposition of change, and a
+source-sink-conduit typology. Despite a 22.6% footprint reduction (from 7,662 to 5,930 hm³),
+structural concentration remained extreme: electricity and gas account for 87.2% of the total
+gross-withdrawal footprint in 2020, and ten supply chains carry 54.9%. On average, water enters
+1.24 production layers upstream of final demand. Point-of-abstraction instruments can reach this
+dominant share but not the intermediary sectors that route large volumes of water they scarcely
+abstract. For instance, construction, a sink by dominant role, routes 132 times the water it
+abstracts and, together with two other sectors, carries 16.0% of economy-wide conduit volume, a
+share that procurement-based instruments can reach and abstraction permits cannot. The footprint
+decline between 2010 and 2020 resulted from an efficiency gain concentrated in electricity and
+gas and a technology effect, together outpacing demand growth, a pattern relevant to the
+sectoral water-efficiency targets that European Union Member States are encouraged to set.</p>
+</div>
+</details>
+
+::: {.tags}
+- Water Footprint
+- Input-Output Model
+- Structural Path Analysis
+- Water Governance
+- Virtual Water
+- Water-Energy Nexus
+:::
+:::
+
 ## Peer-reviewed articles
 
 ::: {.pub}
