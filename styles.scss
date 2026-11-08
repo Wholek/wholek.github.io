@@ -1008,28 +1008,43 @@ main.content ul li { margin-bottom: .3rem; }
     justify-content: center;
   }
 
-  // Pasek podstron Research: etykieta mówi, do czego służy, plus strzałka.
-  .quarto-secondary-nav .quarto-page-breadcrumbs .breadcrumb {
-    align-items: center;
-    margin: 0;
-  }
+  // Pasek podstron Research: zakładki przewijane palcem (budowane w
+  // after-body.html) zamiast małej strzałki i rozwijanego panelu.
+  .quarto-secondary-nav > .container-fluid > .quarto-btn-toggle,
+  .quarto-secondary-nav > .container-fluid > .quarto-page-breadcrumbs,
+  .quarto-secondary-nav > .container-fluid > a[role="navigation"] { display: none; }
 
-  .quarto-secondary-nav .quarto-page-breadcrumbs .breadcrumb-item {
+  #quarto-sidebar { display: none !important; }
+
+  .quarto-secondary-nav .kg-tabs {
     display: flex;
+    gap: .35rem;
+    width: 100%;
+    overflow-x: auto;
+    padding: .3rem 0;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .quarto-secondary-nav .kg-tabs::-webkit-scrollbar { display: none; }
+
+  .quarto-secondary-nav .kg-tabs a {
+    flex: 0 0 auto;
+    display: inline-flex;
     align-items: center;
+    min-height: 40px;
+    padding: 0 .85rem;
+    border-radius: 999px;
+    border: 1px solid var(--kg-rule, #d9d4c7);
+    color: var(--kg-ink);
+    font-size: .92rem;
+    text-decoration: none;
+    white-space: nowrap;
   }
-
-  .quarto-secondary-nav .quarto-page-breadcrumbs .breadcrumb::before {
-    content: "Research: ";
-    color: var(--kg-gold);
+  .quarto-secondary-nav .kg-tabs a.active {
+    background: var(--kg-gold);
+    border-color: var(--kg-gold);
+    color: #fff;
     font-weight: 600;
-    margin-right: .3rem;
-  }
-
-  .quarto-secondary-nav .quarto-page-breadcrumbs .breadcrumb::after {
-    content: "\25BE";
-    color: var(--kg-gold);
-    margin-left: .55rem;
   }
 
   // Panel boczny: odstęp od lewej krawędzi panelu.
