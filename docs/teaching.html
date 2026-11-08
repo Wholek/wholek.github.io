@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7ebcd8d6d84910df5062aada6d3c69fc.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0da96a8eb9160bf67780a87c877c2694.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-36b7884de45abadc2620125cb83d7b4d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -325,6 +325,31 @@ document.addEventListener('DOMContentLoaded', function () {
         window.location.href = 'research.html';
       });
     });
+});
+
+// Telefon: pasek zakładek podstron Research w miejscu małej strzałki.
+// Zakładki powstają z bocznej listy; CSS pokazuje je tylko poniżej 992 px.
+document.addEventListener('DOMContentLoaded', function () {
+  var links = document.querySelectorAll('#quarto-sidebar a.sidebar-link');
+  var bar = document.querySelector('.quarto-secondary-nav > .container-fluid');
+  if (!links.length || !bar) return;
+  var tabs = document.createElement('div');
+  tabs.className = 'kg-tabs';
+  tabs.setAttribute('role', 'navigation');
+  tabs.setAttribute('aria-label', 'Research');
+  links.forEach(function (a) {
+    var t = document.createElement('a');
+    t.href = a.getAttribute('href');
+    t.textContent = a.textContent.trim();
+    if (a.classList.contains('active')) {
+      t.className = 'active';
+      t.setAttribute('aria-current', 'page');
+    }
+    tabs.appendChild(t);
+  });
+  bar.appendChild(tabs);
+  var cur = tabs.querySelector('a.active');
+  if (cur) tabs.scrollLeft = Math.max(0, cur.offsetLeft - 16);
 });
 </script>
 <script id="quarto-html-after-body" type="application/javascript">

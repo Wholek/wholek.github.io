@@ -30,4 +30,29 @@ document.addEventListener('DOMContentLoaded', function () {
       });
     });
 });
+
+// Telefon: pasek zakładek podstron Research w miejscu małej strzałki.
+// Zakładki powstają z bocznej listy; CSS pokazuje je tylko poniżej 992 px.
+document.addEventListener('DOMContentLoaded', function () {
+  var links = document.querySelectorAll('#quarto-sidebar a.sidebar-link');
+  var bar = document.querySelector('.quarto-secondary-nav > .container-fluid');
+  if (!links.length || !bar) return;
+  var tabs = document.createElement('div');
+  tabs.className = 'kg-tabs';
+  tabs.setAttribute('role', 'navigation');
+  tabs.setAttribute('aria-label', 'Research');
+  links.forEach(function (a) {
+    var t = document.createElement('a');
+    t.href = a.getAttribute('href');
+    t.textContent = a.textContent.trim();
+    if (a.classList.contains('active')) {
+      t.className = 'active';
+      t.setAttribute('aria-current', 'page');
+    }
+    tabs.appendChild(t);
+  });
+  bar.appendChild(tabs);
+  var cur = tabs.querySelector('a.active');
+  if (cur) tabs.scrollLeft = Math.max(0, cur.offsetLeft - 16);
+});
 </script>
