@@ -102,6 +102,7 @@ Aptiv
 ## Certifications
 
 ::: {.certs}
+- [2026]{.cert-year} Build Intelligent Applications [· Altkom Akademia]{.cert-org}
 - [2025]{.cert-year} DAX - Language Concepts and Code Optimization in Power BI [· Comarch]{.cert-org}
 - [2024]{.cert-year} Power Query, Power Pivot, Power BI [· Excel\_lent work]{.cert-org}
 - [2023]{.cert-year} Efficient Outlook Handling [· Excel\_lent work]{.cert-org}
