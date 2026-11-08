@@ -289,8 +289,10 @@ main.content p { margin-bottom: .88rem; }
 
 // ═══ WYRÓWNANIE TEKSTU ═════════════════════════════════════════════
 // Tekst ciągły jest justowany, z dzieleniem wyrazów, żeby przy wąskiej
-// kolumnie nie robiły się dziury między słowami. Tytuły, daty i etykiety
-// zostają wyrównane do lewej — justowanie krótkich linii je rozjeżdża.
+// kolumnie nie robiły się dziury między słowami. Justowane są też tytuły i
+// opisy wpisów (entry-title, entry-org, pub-title, pub-meta) na wszystkich
+// stronach. Do lewej zostają tylko nagłówek profilu, daty i etykiety -
+// justowanie krótkich linii je rozjeżdża.
 main.content p,
 main.content li {
   text-align: justify;
@@ -301,10 +303,6 @@ main.content .name p,
 main.content .role p,
 main.content .affil p,
 main.content .entry-date p,
-main.content .entry-title p,
-main.content .entry-org p,
-main.content .pub-title p,
-main.content .pub-meta p,
 main.content .linklist li,
 main.content .tags li,
 main.content .entry-loc {
@@ -968,13 +966,6 @@ main.content ul li { margin-bottom: .3rem; }
     min-width: 138px;
     margin-bottom: 0;
   }
-}
-
-// Talks & Visits: tytuły wystąpień wyjustowane (z dzieleniem wyrazów, żeby
-// nie robiły się dziury), tak samo na komputerze i na telefonie.
-.talks-page main.content .entry-title p {
-  text-align: justify;
-  hyphens: auto;
 }
 
 // ═══ WERSJA MOBILNA (poniżej 992 px, czyli gdy belka zwija się do hamburgera) ═══
