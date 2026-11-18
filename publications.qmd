@@ -43,15 +43,17 @@ drought in Poland, including the cumulative losses accumulated along the recover
 :::
 :::
 
+## Peer-reviewed articles
+
 ::: {.pub}
 [2026]{.pub-year}
 
 ::: {.pub-title}
-The Structure of Poland's Water Footprint in 2010, 2015 and 2020: Structural Path Analysis of Sectoral Roles and Supply-Chain Depth
+The structure of Poland's water footprint in 2010, 2015 and 2020: Structural path analysis of sectoral roles and supply-chain depth
 :::
 
 ::: {.pub-meta}
-Gacek, K. - *Water Resources and Industry* · IF 8.7 [under review]{.pub-status}
+Gacek, K. - *Water Resources and Industry*, 36, 100412 · IF 8.7 · [doi.org/10.1016/j.wri.2026.100412](https://doi.org/10.1016/j.wri.2026.100412)
 :::
 
 <details class="abstract">
@@ -84,8 +86,6 @@ sectoral water-efficiency targets that European Union Member States are encourag
 - Water-Energy Nexus
 :::
 :::
-
-## Peer-reviewed articles
 
 ::: {.pub}
 [2026]{.pub-year}
